@@ -6,243 +6,243 @@
 #### B. CPRA
 
 #### C. Ethics as a Law Course and a Bar Examination subject
-- [[RULE 138]] of the Rules of Court
-- [[Section 4, Legal Education Board Memorandum Order No. 22]], Series of 2020
-- [[Section 8, Legal Education Board Memorandum Order No. 24]] Series of 2021
+- [[Cases/RULE 138]] of the Rules of Court
+- [[Cases/Section 4, Legal Education Board Memorandum Order No. 22]], Series of 2020
+- [[Cases/Section 8, Legal Education Board Memorandum Order No. 24]] Series of 2021
 
 #### D. Admission to the practice of law
-- [[Section 5(5), Article VIII of the 1987 Constitution]]
-- [[In the Matter of the Petitions for Admission to the Bar of Unsuccessful Candidates]] of 1946 to 1953; Albino Cunanan, et al., Resolution, March 18, 1954
-- [[In the Petition for Leave to Resume Practice of Law]] filed Benjamin M. Dacanay, B.M. No. 1678, December 17, 2007
-- [[Pimentel v. Legal Education Board]], G.R. No. 230642, September 10, 2019 and November 9, 2021
-- In Re: [[Lanuevo, A.C. No. 1162]], 1163, 1164, August 29, 1975
-- In Re:[[ Pedro A. Amparo (1974 Bar Candidate)]], G.R. No. L-65120 (Resolution), July 18, 1975
-- Re: [[Petition of Al Argosino to take the Lawyer's Oath]], B.M. No. 712, March 19, 1997
-- In Re: [[Petition to Take the 1999 Bar Exams]], B.M. No. 984, June 25, 2002
-- In Re: [[Petition To Sign In The Roll Of Attorneys]], Michael A. Medado, B.M. No. 2540, September 24, 2013
+- [[Cases/Section 5(5), Article VIII of the 1987 Constitution]]
+- [[Cases/In the Matter of the Petitions for Admission to the Bar of Unsuccessful Candidates]] of 1946 to 1953; Albino Cunanan, et al., Resolution, March 18, 1954
+- [[Cases/In the Petition for Leave to Resume Practice of Law]] filed Benjamin M. Dacanay, B.M. No. 1678, December 17, 2007
+- [[Cases/Pimentel v. Legal Education Board]], G.R. No. 230642, September 10, 2019 and November 9, 2021
+- In Re: [[Cases/Lanuevo, A.C. No. 1162]], 1163, 1164, August 29, 1975
+- In Re:[[Cases/ Pedro A. Amparo (1974 Bar Candidate)]], G.R. No. L-65120 (Resolution), July 18, 1975
+- Re: [[Cases/Petition of Al Argosino to take the Lawyer's Oath]], B.M. No. 712, March 19, 1997
+- In Re: [[Cases/Petition to Take the 1999 Bar Exams]], B.M. No. 984, June 25, 2002
+- In Re: [[Cases/Petition To Sign In The Roll Of Attorneys]], Michael A. Medado, B.M. No. 2540, September 24, 2013
 #### E. Practice of law
 
-- [[Cayetano v. Monsod]], G.R. No. 100113 September 3, 1991
-- [[In the Matter of the IBP Membership Dues Delinquency]] of Atty. Marcial A. Edilion (IBP Administrative Case No. MDD-1), A.M. No. 1928 August 3, 1978
-- [[Zaldivar v. Sandiganbayan]] G.R. Nos. 79690-707, October 7, 1988
-- [[Arnobit v. Arnobit]], A.C. No. 1481, October 17, 2008
-- [[Buenaventura v. Gille]], A.C. No. 7446, December 9, 2020
+- [[Cases/Cayetano v. Monsod]], G.R. No. 100113 September 3, 1991
+- [[Cases/In the Matter of the IBP Membership Dues Delinquency]] of Atty. Marcial A. Edilion (IBP Administrative Case No. MDD-1), A.M. No. 1928 August 3, 1978
+- [[Cases/Zaldivar v. Sandiganbayan]] G.R. Nos. 79690-707, October 7, 1988
+- [[Cases/Arnobit v. Arnobit]], A.C. No. 1481, October 17, 2008
+- [[Cases/Buenaventura v. Gille]], A.C. No. 7446, December 9, 2020
 ### Code of Professional Responsibility and Accountability
 
 #### PREAMBLE
 
-[[Republic of the Philippines v. Sereno]], G.R. No. 237428, May 11, 2018
-[[Dissent LEONEN]]
+[[Cases/Republic of the Philippines v. Sereno]], G.R. No. 237428, May 11, 2018
+[[Cases/Dissent LEONEN]]
 
 #### Canon I, Independence
 
 1.1 Independent, accessible, efficient and effective legal service (2)
-- [[Quiambao v. Bamba]], A.C. No. 6708 (CBD Case No. 01-874) (Resolution), August 25, 2005
-- [[Cases/Katipunan v. Carrera]], A.C. No. 12661, February 19, 2020
-- [[Cases/Heirs of Tunglapan v. Abarquez]], A.C. No. 7726, February 24, 2016
+- [[Cases/Quiambao v. Bamba]], A.C. No. 6708 (CBD Case No. 01-874) (Resolution), August 25, 2005
+- [[Cases/Cases/Katipunan v. Carrera]], A.C. No. 12661, February 19, 2020
+- [[Cases/Cases/Heirs of Tunglapan v. Abarquez]], A.C. No. 7726, February 24, 2016
 
   
 
 1.2 Merit-based practice (13)
-- Re: [[Cases/Letter of Presiding Justice Conrado M. Vasquez]], Jr. on CA-G.R. SP No. 103692, A.M. No. 08-8-11-CA, September 9, 2008
-- [[Cases/Nicolas v. Laki]], A.C. No. 12881, February 9, 2021
-- [[Cases/Ko v. Maduramente]], A.C. No. 11118 (Formerly CBD Case No. 08-2140), July 14, 2020
+- Re: [[Cases/Cases/Letter of Presiding Justice Conrado M. Vasquez]], Jr. on CA-G.R. SP No. 103692, A.M. No. 08-8-11-CA, September 9, 2008
+- [[Cases/Cases/Nicolas v. Laki]], A.C. No. 12881, February 9, 2021
+- [[Cases/Cases/Ko v. Maduramente]], A.C. No. 11118 (Formerly CBD Case No. 08-2140), July 14, 2020
 
 1.03 Freedom from improper considerations and external influences
-- [[Cases/Balinon v. De Leon]], A.C. No. 104, January 28, 1954
-- [[Cases/Donton v. Tansingco]], A.C. No. 6057, June 27, 2006
-- [[Cases/Ong v. Grijaldo]], A.C. No. 4724, April 30, 2003
+- [[Cases/Cases/Balinon v. De Leon]], A.C. No. 104, January 28, 1954
+- [[Cases/Cases/Donton v. Tansingco]], A.C. No. 6057, June 27, 2006
+- [[Cases/Cases/Ong v. Grijaldo]], A.C. No. 4724, April 30, 2003
 
 1.04 Non-interference by a lawyer (13.03)
-- [[Cases/Go v. East Oceanic Leasing and Finance Corporation]], G.R. No. 206841, January 19, 2018
-- [[Cases/Kilosbayan Foundation, et. Al. v. Hon. Janolo]], et al., G.R. No. 180543, August 18, 2010
-- [[Cases/Section 14, Article VIII]] of the 1987 Constitution
+- [[Cases/Cases/Go v. East Oceanic Leasing and Finance Corporation]], G.R. No. 206841, January 19, 2018
+- [[Cases/Cases/Kilosbayan Foundation, et. Al. v. Hon. Janolo]], et al., G.R. No. 180543, August 18, 2010
+- [[Cases/Cases/Section 14, Article VIII]] of the 1987 Constitution
 
 1.5 Lawyer's duty and discretion in procedure and strategy (19.03, n)
-- [[Cases/Rule 138-A]] of the Rules of Court
-- In Re: [[Cases/Joaquin T. Borromeo]], A.M. No. 93-7-696-0, February 21, 1995
-- [[Cases/Olvida v. Atty. Gonzales]], A.C. No. 5732, June 16, 2015
-- [[Cases/The Learning Child v. Lazaro]], G.R. No. 143385, September 7, 2000
-- [[Cases/Magbanua v. Uy]], G.R. No. 161003, May 6, 2005
+- [[Cases/Cases/Rule 138-A]] of the Rules of Court
+- In Re: [[Cases/Cases/Joaquin T. Borromeo]], A.M. No. 93-7-696-0, February 21, 1995
+- [[Cases/Cases/Olvida v. Atty. Gonzales]], A.C. No. 5732, June 16, 2015
+- [[Cases/Cases/The Learning Child v. Lazaro]], G.R. No. 143385, September 7, 2000
+- [[Cases/Cases/Magbanua v. Uy]], G.R. No. 161003, May 6, 2005
 
 #### Canon II, Propriety
-- In Re: Resolution dated January 4, 2022 in[[Cases/A.M. No. 21-12-05-SC against Atty. Lorenzo G. Gadon]], A.C. No. 13521 Formerly A.M. No. 21-12-05-SC, June 27, 2023
+- In Re: Resolution dated January 4, 2022 in[[Cases/Cases/A.M. No. 21-12-05-SC against Atty. Lorenzo G. Gadon]], A.C. No. 13521 Formerly A.M. No. 21-12-05-SC, June 27, 2023
 
 2.01 Proper conduct (1.01)
-- [[Cases/Hipolito v. Alejandro-Abbas]], A.C. No. 12485 (Resolution), December 10, 2019
-- In Re: [[Cases/Show Cause Order in the Decision dated May 11, 2018 in G.R. No. 237428]] (Republic of the Philippines, represented by Solicitor General Jose C. Calida v. Maria Lourdes P.A. Sereno), A.M. No. 18-06-01-SC, July 17, 2018
-- [[Cases/Bihag, et al. v. Era]], A.C. No. 12880, November 23, 2021
-- [[Cases/Nava II v. Artuz]], A.C. No. 7253 & A.M. No. MTJ-08-1717, February 18, 2020
-- [[Cases/Nicolas v. Laki]], A.C. No. 12881, February 9, 2021
-- [[Cases/Saludares v. Saludares]], A.C. No. 10612, January 31, 2023
-- [[Cases/Panagsagan v. Panagsagan]], A.C. No. 7733, October 1, 2019
-- [[Cases/Altobano-Ruiz v. Ruiz]], A.C. No. 13132, January 31, 2023
+- [[Cases/Cases/Hipolito v. Alejandro-Abbas]], A.C. No. 12485 (Resolution), December 10, 2019
+- In Re: [[Cases/Cases/Show Cause Order in the Decision dated May 11, 2018 in G.R. No. 237428]] (Republic of the Philippines, represented by Solicitor General Jose C. Calida v. Maria Lourdes P.A. Sereno), A.M. No. 18-06-01-SC, July 17, 2018
+- [[Cases/Cases/Bihag, et al. v. Era]], A.C. No. 12880, November 23, 2021
+- [[Cases/Cases/Nava II v. Artuz]], A.C. No. 7253 & A.M. No. MTJ-08-1717, February 18, 2020
+- [[Cases/Cases/Nicolas v. Laki]], A.C. No. 12881, February 9, 2021
+- [[Cases/Cases/Saludares v. Saludares]], A.C. No. 10612, January 31, 2023
+- [[Cases/Cases/Panagsagan v. Panagsagan]], A.C. No. 7733, October 1, 2019
+- [[Cases/Cases/Altobano-Ruiz v. Ruiz]], A.C. No. 13132, January 31, 2023
 
 2.2 Dignified conduct (8, 7.03)  
-- [[Cases/Cabarroguis v. Basa]], A.C. No. 8789, March 11, 2020
-- [[Cases/Nava II v. Artuz]], A.C. No. 7253 & A.M. No. MTJ-08-1717, February 18, 2020
-- [[Cases/Arrojado v. Obligar]], A.C. No. 13346 (Notice), July 4, 2022
-- [[Cases/Roque v. Balbin]], A.C. No. 7088, December 4, 2018
-- [[Cases/Aurora R. Ladim]], et al. v. Atty. Perla D. Ramirez, A.C. No. 10372, February 21, 2023
-- [[Cases/Dayos v. Buri]], A.C. No. 13504, January 31, 2023
-- [[Cases/Hipolito v. Alejandro-Abbas]], A.C. No. 12485 (Resolution), December 10, 2019
+- [[Cases/Cases/Cabarroguis v. Basa]], A.C. No. 8789, March 11, 2020
+- [[Cases/Cases/Nava II v. Artuz]], A.C. No. 7253 & A.M. No. MTJ-08-1717, February 18, 2020
+- [[Cases/Cases/Arrojado v. Obligar]], A.C. No. 13346 (Notice), July 4, 2022
+- [[Cases/Cases/Roque v. Balbin]], A.C. No. 7088, December 4, 2018
+- [[Cases/Cases/Aurora R. Ladim]], et al. v. Atty. Perla D. Ramirez, A.C. No. 10372, February 21, 2023
+- [[Cases/Cases/Dayos v. Buri]], A.C. No. 13504, January 31, 2023
+- [[Cases/Cases/Hipolito v. Alejandro-Abbas]], A.C. No. 12485 (Resolution), December 10, 2019
 
 2.3 Safe environment; avoid all forms of abuse or harassment
-- [[Cases/Espejon v. Lorredo]], A.M. No. MTJ-22-007, March 9, 2022
-- [[Cases/Gabuat v. Dominguez]], A.C. No. 12388 (Notice), September 7, 2022
-- [[Cases/Escandor v. People]], G.R. No. 211962, July 6, 2020
-- In Re: Resolution dated January 4, 2022 in [[Cases/A.M. No. 21-12-05-SC against Atty. Lorenzo G. Gadon]], A.C. No. 13521 Formerly A.M. No. 21-12-05-SC, June 27, 2023
+- [[Cases/Cases/Espejon v. Lorredo]], A.M. No. MTJ-22-007, March 9, 2022
+- [[Cases/Cases/Gabuat v. Dominguez]], A.C. No. 12388 (Notice), September 7, 2022
+- [[Cases/Cases/Escandor v. People]], G.R. No. 211962, July 6, 2020
+- In Re: Resolution dated January 4, 2022 in [[Cases/Cases/A.M. No. 21-12-05-SC against Atty. Lorenzo G. Gadon]], A.C. No. 13521 Formerly A.M. No. 21-12-05-SC, June 27, 2023
 
 
 2.4 Use of dignified, gender-fair, and child- and culturally-sensitive language (8.01, 11.03)
-- [[Cases/Nuezca v. Villagarcia]], A.C. No. 8210, August 8, 2016.
-- In Re: [[Cases/Conviction of Judge Adoracion G. Angeles]], Regional Trial Court, Branch 121, Caloocan City in Criminal Case Nos. Q-97-69655 to 56 for Child Abuse, A.M. No. 06-9-545-RTC, January 31, 2008
-- [[Cases/Velasco v. Cuasing]], A.C. No. 12883 Formerly CBD Case No. 16-5016, March 2, 2021
-- [[Cases/Noble III v. Ailes]], A.C. No. 10628, July 1, 2015
-- Re: [[Cases/Disturbing Social Media Posts]], A.M. No. 21- 06-20-SC, April 11, 2023
-- [[Cases/Belo-Henares v. Guevarra]], A.C. No. 11394, December 1, 2016
+- [[Cases/Cases/Nuezca v. Villagarcia]], A.C. No. 8210, August 8, 2016.
+- In Re: [[Cases/Cases/Conviction of Judge Adoracion G. Angeles]], Regional Trial Court, Branch 121, Caloocan City in Criminal Case Nos. Q-97-69655 to 56 for Child Abuse, A.M. No. 06-9-545-RTC, January 31, 2008
+- [[Cases/Cases/Velasco v. Cuasing]], A.C. No. 12883 Formerly CBD Case No. 16-5016, March 2, 2021
+- [[Cases/Cases/Noble III v. Ailes]], A.C. No. 10628, July 1, 2015
+- Re: [[Cases/Cases/Disturbing Social Media Posts]], A.M. No. 21- 06-20-SC, April 11, 2023
+- [[Cases/Cases/Belo-Henares v. Guevarra]], A.C. No. 11394, December 1, 2016
 
 2.5 Observance of fairness and obedience (15.07)
-- [[Cases/Suzuki v. Atty. Tiamson]], A.C. No. 6542 Formerly CBD Case No. 03-1053, September 30, 2005
+- [[Cases/Cases/Suzuki v. Atty. Tiamson]], A.C. No. 6542 Formerly CBD Case No. 03-1053, September 30, 2005
 
 2.6 Harassing or threatening conduct
-- In Re: [[Cases/Show Cause Order in the Decision dated May 11, 2018 in G.R. No. 237428]] (Republic of the Philippines, represented by Solicitor General Jose C. Calida v. Maria Lourdes P.A. Sereno), A.M. No. 18-06-01-SC, July 17, 2018
-- [[Cases/Aguirre v. Reyes]], A.C. No. 4355, January 8, 2020
-- [[Cases/Roque, Jr. v. Balbin]], A.C. No. 7088, December 4, 2018
+- In Re: [[Cases/Cases/Show Cause Order in the Decision dated May 11, 2018 in G.R. No. 237428]] (Republic of the Philippines, represented by Solicitor General Jose C. Calida v. Maria Lourdes P.A. Sereno), A.M. No. 18-06-01-SC, July 17, 2018
+- [[Cases/Cases/Aguirre v. Reyes]], A.C. No. 4355, January 8, 2020
+- [[Cases/Cases/Roque, Jr. v. Balbin]], A.C. No. 7088, December 4, 2018
 
 2.7 Formal decorum and appearance (11.01)
-- [[Cases/Fernandez v. Cruz]], Jr., A.M. No. RTJ-17-2500 (Notice), November 8, 2017
-- [[Cases/Lorenzana v. Austria]], A.M. No. RTJ-09-2200, April 2, 2014
+- [[Cases/Cases/Fernandez v. Cruz]], Jr., A.M. No. RTJ-17-2500 (Notice), November 8, 2017
+- [[Cases/Cases/Lorenzana v. Austria]], A.M. No. RTJ-09-2200, April 2, 2014
 
   
 
 2.8 Prohibition against misleading the court, tribunal, or other government agency (10.02)
-- [[Cases/The Insular Life Assurance Co., Ltd., Employees Association-Natu v. The Insular Life Assurance Co., Ltd.]], G.R. No. L-25291, January 30, 1971
-- [[Cases/Erectors, Inc. v. NLRC]], G.R. No. 71177, February 29, 1988
-- [[Cases/Canilao v. Camtugan II]], A.C. No. 11538, March 14, 2022
-- [[Cases/Ingram v. Lorica IV]], A.C. No. 10306, September 9, 2020
-- [[Cases/Sitaca v. Palomares]], A.C. No. 5285, August 14, 2019
-- [[Cases/In the Matter of the Charges of Plagiarism]], etc., against Associate Justice Mariano C. Del Castillo, A.M. No. 10-7-17-SC (Resolution), February 8, 2011
+- [[Cases/Cases/The Insular Life Assurance Co., Ltd., Employees Association-Natu v. The Insular Life Assurance Co., Ltd.]], G.R. No. L-25291, January 30, 1971
+- [[Cases/Cases/Erectors, Inc. v. NLRC]], G.R. No. 71177, February 29, 1988
+- [[Cases/Cases/Canilao v. Camtugan II]], A.C. No. 11538, March 14, 2022
+- [[Cases/Cases/Ingram v. Lorica IV]], A.C. No. 10306, September 9, 2020
+- [[Cases/Cases/Sitaca v. Palomares]], A.C. No. 5285, August 14, 2019
+- [[Cases/Cases/In the Matter of the Charges of Plagiarism]], etc., against Associate Justice Mariano C. Del Castillo, A.M. No. 10-7-17-SC (Resolution), February 8, 2011
 
 
 2.9 Obstructing access to evidence or altering, destroying, or concealing evidence
-- [[Cases/Fernandez v. Grecia]], A.C. No. 3694, June 17, 1993
-- [[Cases/Rodco Consultancy and Maritime Services Corp. v. Concepcion]], A.C. No. 7963, June 29, 2021
+- [[Cases/Cases/Fernandez v. Grecia]], A.C. No. 3694, June 17, 1993
+- [[Cases/Cases/Rodco Consultancy and Maritime Services Corp. v. Concepcion]], A.C. No. 7963, June 29, 2021
 
 2.10 Conduct in the presentation of a witness (12.05, 12.07, 12.06)
-- [[Cases/Section 3(1), Rule 132]] of the Rules of Court
-- [[Cases/Berzola v. Baldovino]], A.C. No. 12815, November 3, 2020
+- [[Cases/Cases/Section 3(1), Rule 132]] of the Rules of Court
+- [[Cases/Cases/Berzola v. Baldovino]], A.C. No. 12815, November 3, 2020
 
 2.11 False representations or statements; duty to correct
-- [[Cases/Drilon v. Maglalang]], A.C. No. 8471, August 22, 2023.
+- [[Cases/Cases/Drilon v. Maglalang]], A.C. No. 8471, August 22, 2023.
 
 2.12 Duty to report dishonest, deceitful or misleading conduct.
-- [[Cases/Rural Bank of Calape, Inc. Bohol v. Florido]], A.C. No. 5736, June 18, 2010
+- [[Cases/Cases/Rural Bank of Calape, Inc. Bohol v. Florido]], A.C. No. 5736, June 18, 2010
 
 2.13 Imputation of a misconduct, impropriety, or crime without basis
-- In Re: [[Cases/Luis B. Tagorda]], G.R. No. 32329, March 23, 1929
-- [[Cases/Mahinay v. Edig]], A.C. No. 13058 (Notice), April 6, 2022
-- [[Cases/Alpajora v. Calayan]], A.C. No. 8208, January 10, 2018
-- [[Cases/Dimaculangan v. Jurado]], A.C. No. 12358 (Notice), December 4, 2019
+- In Re: [[Cases/Cases/Luis B. Tagorda]], G.R. No. 32329, March 23, 1929
+- [[Cases/Cases/Mahinay v. Edig]], A.C. No. 13058 (Notice), April 6, 2022
+- [[Cases/Cases/Alpajora v. Calayan]], A.C. No. 8208, January 10, 2018
+- [[Cases/Cases/Dimaculangan v. Jurado]], A.C. No. 12358 (Notice), December 4, 2019
 
 2.14 Remedy for grievances; insinuation of improper motive (11.04, 11.05)
-- [[Cases/De Leon-Diaz v. Calayan]], A.C. No. 9252, November 28, 2019
-- [[Cases/Macapagal v. Young]], A.C. No. 9298, July 29, 2019
-- [[Cases/Ramos v. Lazo]], A.C. No. 10204, September 14, 2020
-- [[Cases/Diomampo v. Alpajora]], A.M. No. RTJ-04-1880 Formerly A.M. OCA IPI No. 04-1962-RTJ, October 19, 2004 
+- [[Cases/Cases/De Leon-Diaz v. Calayan]], A.C. No. 9252, November 28, 2019
+- [[Cases/Cases/Macapagal v. Young]], A.C. No. 9298, July 29, 2019
+- [[Cases/Cases/Ramos v. Lazo]], A.C. No. 10204, September 14, 2020
+- [[Cases/Cases/Diomampo v. Alpajora]], A.M. No. RTJ-04-1880 Formerly A.M. OCA IPI No. 04-1962-RTJ, October 19, 2004 
 
 2.15 Improper claim of influence or familiarity (13.01)  
-- [[Cases/Dumlao, Jr. v. Camacho]], A.C. No. 10498, September 4, 2018
-- [[Cases/Mariano v. Laki]], A.C. No. 11978 Formerly CBD Case No. 10-2769, September 25, 2018
-- [[Cases/Rodco Consultancy and Maritime Services Corp. v. Concepcion]], A.C. No. 7963, June 29, 2021
-- [[Cases/Lim v. Bautista]], A.C. No. 13468, February 21, 2023 
+- [[Cases/Cases/Dumlao, Jr. v. Camacho]], A.C. No. 10498, September 4, 2018
+- [[Cases/Cases/Mariano v. Laki]], A.C. No. 11978 Formerly CBD Case No. 10-2769, September 25, 2018
+- [[Cases/Cases/Rodco Consultancy and Maritime Services Corp. v. Concepcion]], A.C. No. 7963, June 29, 2021
+- [[Cases/Cases/Lim v. Bautista]], A.C. No. 13468, February 21, 2023 
 
 2.16 Duty to report life-threatening situations
 
 2.17 Non-solicitation and impermissible advertisement (2.03, 30.4)
 
 2.18 Prohibition against self-promotion
-- [[Cases/Ulep v. The Legal Clinic]], Inc., Bar Matter No. 553, 17 June 1993
-- In Re: [[Cases/Sycip, Salazar, Feliciano, Hernandez & Castillo]], G.R. No. X92-1 (Resolution), July 30, 1979.
-- [[Cases/Linsangan v. Tolentino]], A.C. No. 6672, September 4, 2009
-- [[Cases/Palencia v. Linsangan]], A.C. No. 10557, July 10, 2018
+- [[Cases/Cases/Ulep v. The Legal Clinic]], Inc., Bar Matter No. 553, 17 June 1993
+- In Re: [[Cases/Cases/Sycip, Salazar, Feliciano, Hernandez & Castillo]], G.R. No. X92-1 (Resolution), July 30, 1979.
+- [[Cases/Cases/Linsangan v. Tolentino]], A.C. No. 6672, September 4, 2009
+- [[Cases/Cases/Palencia v. Linsangan]], A.C. No. 10557, July 10, 2018
 
 2.19 Sub-judice rule (13.02)
-- [[Cases/Development Bank of the Philippines v. Badilla]], Jr., A.C. No. 10931 (Notice), September 29, 2021
-- In Re: [[Show Cause Order in the Decision dated May 11, 2018 in G.R. No. 237428]] (Republic of the Philippines, represented by Solicitor General Jose C. Calida v. Maria Lourdes P.A. Sereno), A.M. No. 18-06-01-SC, July 17, 2018
-- In Re: [[Cases/Suspension of Atty. Rogelio Z. Bagabuyo]], Former Senior State Prosecutor, A.C. No. 7006, October 9, 2007
-- [[Cases/Velasco v. Causing]], A.C. No. 12883 Formerly CBD Case No. 16-5016, March 2, 2021
+- [[Cases/Cases/Development Bank of the Philippines v. Badilla]], Jr., A.C. No. 10931 (Notice), September 29, 2021
+- In Re: [[Cases/Show Cause Order in the Decision dated May 11, 2018 in G.R. No. 237428]] (Republic of the Philippines, represented by Solicitor General Jose C. Calida v. Maria Lourdes P.A. Sereno), A.M. No. 18-06-01-SC, July 17, 2018
+- In Re: [[Cases/Cases/Suspension of Atty. Rogelio Z. Bagabuyo]], Former Senior State Prosecutor, A.C. No. 7006, October 9, 2007
+- [[Cases/Cases/Velasco v. Causing]], A.C. No. 12883 Formerly CBD Case No. 16-5016, March 2, 2021
 
 2.20 Disclosure of relationship or connection
 
 2.21 Prohibition against gift-giving and donations   
 
 2.22 No undue advantage of ignorance of the law
--[[ Bihag, et al. v. Era]], A.C. No. 12880, November 23, 2021
+-[[Cases/ Bihag, et al. v. Era]], A.C. No. 12880, November 23, 2021
 
 2.23 Instituting multiple cases; forum shopping (12.02)
-- [[Cases/Zamora v. Quinan]], G.R. No. 216139, November 29, 2017
-- [[Cases/Alonso v. Relamida]], A.C. No. 8481 Formerly B.M. No. 1524, August 3, 2010
-- [[Cases/Tapang v. Donayre]], A.C. No. 12822, November 18, 2020
-- [[Cases/Section 5, Rule 7]] of the Revised Rules of Civil Procedure 
+- [[Cases/Cases/Zamora v. Quinan]], G.R. No. 216139, November 29, 2017
+- [[Cases/Cases/Alonso v. Relamida]], A.C. No. 8481 Formerly B.M. No. 1524, August 3, 2010
+- [[Cases/Cases/Tapang v. Donayre]], A.C. No. 12822, November 18, 2020
+- [[Cases/Cases/Section 5, Rule 7]] of the Revised Rules of Civil Procedure 
 
 2.24 Encroaching or interfering in another lawyer's engagement; exception (8.02)
-- [[Cases/Galiciano v. Castro]], A.C. No. 6396, October 25, 2005
-- [[Cases/Zamora v. Gallanosa]], A.C. No. 10738, September 14, 2020
-- [[Cases/Linsangan v. Tolentino]], A.C. No. 6672, September 4, 2009
-- [[Cases/Sevandal v. Adame]], A.C. No. 10571, November 11, 2020
-- [[Cases/Cabadila v. Atty. Lobrido]], A.C. No. 7972, October 3, 2018
+- [[Cases/Cases/Galiciano v. Castro]], A.C. No. 6396, October 25, 2005
+- [[Cases/Cases/Zamora v. Gallanosa]], A.C. No. 10738, September 14, 2020
+- [[Cases/Cases/Linsangan v. Tolentino]], A.C. No. 6672, September 4, 2009
+- [[Cases/Cases/Sevandal v. Adame]], A.C. No. 10571, November 11, 2020
+- [[Cases/Cases/Cabadila v. Atty. Lobrido]], A.C. No. 7972, October 3, 2018
 
 2.25 Responsibility of a solo practitioner
-- [[Cases/Perea v. Almadro]], A.C. No. 5246, March 20, 2003
-- [[Cases/Lijauco v. Terrado]], A.C. No. 6317, August 31, 2006
-- [[Cases/Sindophil v. Republic]], G.R. No. 204594, November 7, 2018.
-- [[Cases/Padilla v. Samson]], A.C. No. 10253, August 22, 2017
-- [[Cases/Ramirez v. Buhayang-Margallo]], A.C. No. 10537, February 3, 2015
+- [[Cases/Cases/Perea v. Almadro]], A.C. No. 5246, March 20, 2003
+- [[Cases/Cases/Lijauco v. Terrado]], A.C. No. 6317, August 31, 2006
+- [[Cases/Cases/Sindophil v. Republic]], G.R. No. 204594, November 7, 2018.
+- [[Cases/Cases/Padilla v. Samson]], A.C. No. 10253, August 22, 2017
+- [[Cases/Cases/Ramirez v. Buhayang-Margallo]], A.C. No. 10537, February 3, 2015
 
 2.26 Definition of a law firm; choice of firm name (3.02)
-- [[Cases/Ouano Arrastre Service, Inc. v. Aleonar]], G.R. No. 97664, October 10, 1991
-- [[Cases/Kimteng, et al. v. Young]], et al., G.R. No. 210554, August 5, 2015
-- [[Cases/Cambaliza v. Atty. Cristal-Tenorio]], A.M. No. 6290, July 14, 2004
-- [[Cases/Dacanay v. Baker & McKenzie]], A.M. No. 2131, May 10, 1985
+- [[Cases/Cases/Ouano Arrastre Service, Inc. v. Aleonar]], G.R. No. 97664, October 10, 1991
+- [[Cases/Cases/Kimteng, et al. v. Young]], et al., G.R. No. 210554, August 5, 2015
+- [[Cases/Cases/Cambaliza v. Atty. Cristal-Tenorio]], A.M. No. 6290, July 14, 2004
+- [[Cases/Cases/Dacanay v. Baker & McKenzie]], A.M. No. 2131, May 10, 1985
 
 
 2.27 Partner who assumes public office (3.03)
-- [[Cases/Aquino-Simbulan v. Zabat]], A.M. No. P-05-1993, April 26, 2005
-- [[Cases/Olazo v. Tinga]], A.M. No. 10-5-7-SC, December 7, 2010
-- [[Cases/Section 90 of R.A. No. 7160]] otherwise known as the Local Government Code 1991
-- [[Cases/Query of Atty. Karen M. Silverio-Buffe]], Former Clerk of Court — Branch 81, Romblon, Romblon — On the Prohibition from Engaging in the Private Practice of Law, A.M. No. 08-6-352-RTC, August 19, 2009
-- [[Cases/Section 12 of R.A. No. 2260]] otherwise known as the Civil Service Act of 1959, see the case of [[Cases/Catu v. Rellosa]], A.C. No. 5738, February 19, 2008
-- [[Cases/Section 14, Article VI]] of the 1987 Constitution 
+- [[Cases/Cases/Aquino-Simbulan v. Zabat]], A.M. No. P-05-1993, April 26, 2005
+- [[Cases/Cases/Olazo v. Tinga]], A.M. No. 10-5-7-SC, December 7, 2010
+- [[Cases/Cases/Section 90 of R.A. No. 7160]] otherwise known as the Local Government Code 1991
+- [[Cases/Cases/Query of Atty. Karen M. Silverio-Buffe]], Former Clerk of Court — Branch 81, Romblon, Romblon — On the Prohibition from Engaging in the Private Practice of Law, A.M. No. 08-6-352-RTC, August 19, 2009
+- [[Cases/Cases/Section 12 of R.A. No. 2260]] otherwise known as the Civil Service Act of 1959, see the case of [[Cases/Cases/Catu v. Rellosa]], A.C. No. 5738, February 19, 2008
+- [[Cases/Cases/Section 14, Article VI]] of the 1987 Constitution 
 
 2.28 Dignified government service (6)
-- [[Cases/Guevarra-Castil v. Trinidad]], A.C. No. 10294, July 12, 2022
+- [[Cases/Cases/Guevarra-Castil v. Trinidad]], A.C. No. 10294, July 12, 2022
 
 2.29 Lawyers formerly in government service
-- Re: [[Cases/Romulo P. Atencia]], A.C. No. 8911 (Resolution), July 8, 2019
-- [[Cases/PNB v. Cedo]], A.C. No. 3701, March 28, 1995
+- Re: [[Cases/Cases/Romulo P. Atencia]], A.C. No. 8911 (Resolution), July 8, 2019
+- [[Cases/Cases/PNB v. Cedo]], A.C. No. 3701, March 28, 1995
 
 2.30 No financial interest in transactions; no gifts
-- [[Cases/Bautista v. Ferrer]], A.C. No. 9057 Formerly CBD Case No. 12-3413, July 3, 2019
-- [[Cases/Ladignon v. Garong]], A.M. No. MTJ-08-1712 Formerly OCA IPI No. 08-2020- MTJ, August 20, 2008
+- [[Cases/Cases/Bautista v. Ferrer]], A.C. No. 9057 Formerly CBD Case No. 12-3413, July 3, 2019
+- [[Cases/Cases/Ladignon v. Garong]], A.M. No. MTJ-08-1712 Formerly OCA IPI No. 08-2020- MTJ, August 20, 2008
  
 
 2.31 Prosecution of criminal cases (6.01)
-- [[Cases/Merciales v. CA]], G.R. No. 124171, March 18, 2002
-- [[Cases/Boto v. Villena]], A.C. No. 9684, September 18, 2013 
+- [[Cases/Cases/Merciales v. CA]], G.R. No. 124171, March 18, 2002
+- [[Cases/Cases/Boto v. Villena]], A.C. No. 9684, September 18, 2013 
 
 2.32 Lawyers in the academe
-- In Re: [[Cases/Anonymous Complaint Against Atty. Cresencio P. Co Untian]], Jr., A.C. No. 5900 (Resolution), April 10, 2019
+- In Re: [[Cases/Cases/Anonymous Complaint Against Atty. Cresencio P. Co Untian]], Jr., A.C. No. 5900 (Resolution), April 10, 2019
 
 2.33 Conflict of interest for lawyers in the academe
 
 2.34 Paralegal services; lawyer's responsibility
 
 2.35 Non-delegable legal tasks (19.01)
-- [[Cases/Rule 138-A of the Rules of Court]]
-- [[Cases/Section 7, Rule 116]] of the Revised Rules on Criminal Procedure
-- [[Cases/Section 9, Act 2259]], The Cadastral Act
-- [[Cases/Article 222, P.D. No. 442]] (2015), The Labor Code of the Philippines, as amended 
+- [[Cases/Cases/Rule 138-A of the Rules of Court]]
+- [[Cases/Cases/Section 7, Rule 116]] of the Revised Rules on Criminal Procedure
+- [[Cases/Cases/Section 9, Act 2259]], The Cadastral Act
+- [[Cases/Cases/Article 222, P.D. No. 442]] (2015), The Labor Code of the Philippines, as amended 
 
 
 2.36 Responsible Use of Social Media
@@ -262,38 +262,38 @@
 2.43 Legal information; legal advice
 
 2.44 Online posts that could violate conflict of interest
-- Re: [[Cases/Disturbing Social Media Posts]], A.M. No. 21-06-20-SC, April 11, 2023
-- [[Belo-Henares V. Guevarra]], A.C. No. 11394, December 1, 2016
-- [[Velasco v. Causing]], A.C. No. 12883 Formerly CBD Case No. 16-5016, March 2, 2021 Canon III, Fidelity
-- [[Cases/De Borja v. Mendez]], Jr., A.C. No. 11185, July 4, 2018
-- [[Cases/Regala v. Sandiganbayan]], G.R. No. 105938, September 20, 1996
-- [[Cases/Ramirez Vda. De Alma Jose v. Serrano]], A.C. No. 11979, July 27, 2022
+- Re: [[Cases/Cases/Disturbing Social Media Posts]], A.M. No. 21-06-20-SC, April 11, 2023
+- [[Cases/Belo-Henares V. Guevarra]], A.C. No. 11394, December 1, 2016
+- [[Cases/Velasco v. Causing]], A.C. No. 12883 Formerly CBD Case No. 16-5016, March 2, 2021 Canon III, Fidelity
+- [[Cases/Cases/De Borja v. Mendez]], Jr., A.C. No. 11185, July 4, 2018
+- [[Cases/Cases/Regala v. Sandiganbayan]], G.R. No. 105938, September 20, 1996
+- [[Cases/Cases/Ramirez Vda. De Alma Jose v. Serrano]], A.C. No. 11979, July 27, 2022
 
 #### Canon III, CPRA – Fidelity
 
 3.1 Practice of law
-- [[Cayetano v. Monsod]], G.R. No. 10013, September 3, 1991
-- [[Cases/Section 1(1), Article IX]] of the 1987 Constitution
-- [[Cases/Aguirre v. Rana]], B.M. No. 1036, 10 June 2003
-- In Re: [[Cases/Letter of the UP Law Faculty on Allegations of Plagiarism and Misrepresentation in the Supreme Court]], A.M. No. 10-10-4-SC, March 8, 2011
-- [[Cases/Villatuya v. Tabalingcos]], A.C. No. 6622 (Notice), August 19, 2014
-- [[Cases/Bonifacio v. Era and Bragas]], A.C. No.11754, October 3, 2017
+- [[Cases/Cayetano v. Monsod]], G.R. No. 10013, September 3, 1991
+- [[Cases/Cases/Section 1(1), Article IX]] of the 1987 Constitution
+- [[Cases/Cases/Aguirre v. Rana]], B.M. No. 1036, 10 June 2003
+- In Re: [[Cases/Cases/Letter of the UP Law Faculty on Allegations of Plagiarism and Misrepresentation in the Supreme Court]], A.M. No. 10-10-4-SC, March 8, 2011
+- [[Cases/Cases/Villatuya v. Tabalingcos]], A.C. No. 6622 (Notice), August 19, 2014
+- [[Cases/Cases/Bonifacio v. Era and Bragas]], A.C. No.11754, October 3, 2017
 
 
 3.2 The responsible and accountable lawyer (1, 12, 19)
-- [[Cases/A-1 Financial Services, Inc. v. Valerio]], A.C. No. 8390, July 2, 2010
-- [[Cases/Alumno v. Galacgac]], A.C. No. 12823 (Notice), October 7, 2020
-- [[Cases/Saladaga v. Astorga]], A.C. Nos. 4697 and 4728, November 25, 2014
-- [[Gabuat v. Dominguez]], A.C. No. 12388 (Notice), September 7, 2022
-- [[Cases/People v. Castañeda]], Jr., G.R. No. 208290, December 11, 2013
-- [[Cases/Balais-Mabanag v. Register of Deeds of Quezon City]], G.R. No. 153142, March 29, 2010
-- [[Cases/Professional Services, Inc. v. Rivera]], A.C. No. 11241, November 3, 2020
-- [[Cases/Alcantara v. Salas]], A.C. No. 3989, December 10, 2019
-- In Re: [[Cases/CA-G.R. CR No. 39115 v. Supeña]], A.C. No. 13236 (Notice), July 18, 2022
-- [[Cases/Vda. De Enriquez v. Atty. San Jose]], A.C. No. 3569, February 23, 2007
-- [[Rural Bank of Calape, Inc. Bohol v. Florido]], A.C. No. 5736, June 18, 2010
-- In Re: [[Cases/Merdegia, IPI Nos. 12-205-CA-J and 10300]], December 10, 2013
-- [[Cases/Banogan v. Zerna]], G.R. No. L-35469, October 9, 1987
+- [[Cases/Cases/A-1 Financial Services, Inc. v. Valerio]], A.C. No. 8390, July 2, 2010
+- [[Cases/Cases/Alumno v. Galacgac]], A.C. No. 12823 (Notice), October 7, 2020
+- [[Cases/Cases/Saladaga v. Astorga]], A.C. Nos. 4697 and 4728, November 25, 2014
+- [[Cases/Gabuat v. Dominguez]], A.C. No. 12388 (Notice), September 7, 2022
+- [[Cases/Cases/People v. Castañeda]], Jr., G.R. No. 208290, December 11, 2013
+- [[Cases/Cases/Balais-Mabanag v. Register of Deeds of Quezon City]], G.R. No. 153142, March 29, 2010
+- [[Cases/Cases/Professional Services, Inc. v. Rivera]], A.C. No. 11241, November 3, 2020
+- [[Cases/Cases/Alcantara v. Salas]], A.C. No. 3989, December 10, 2019
+- In Re: [[Cases/Cases/CA-G.R. CR No. 39115 v. Supeña]], A.C. No. 13236 (Notice), July 18, 2022
+- [[Cases/Cases/Vda. De Enriquez v. Atty. San Jose]], A.C. No. 3569, February 23, 2007
+- [[Cases/Rural Bank of Calape, Inc. Bohol v. Florido]], A.C. No. 5736, June 18, 2010
+- In Re: [[Cases/Cases/Merdegia, IPI Nos. 12-205-CA-J and 10300]], December 10, 2013
+- [[Cases/Cases/Banogan v. Zerna]], G.R. No. L-35469, October 9, 1987
 
 3.3 Lawyer-client relationship
 - Regala v. Sandiganbayan, G.R. No. 105938, September 20, 1996
