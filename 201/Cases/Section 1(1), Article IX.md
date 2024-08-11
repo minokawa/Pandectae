@@ -1,0 +1,3 @@
+**C. _THE COMMISSION ON ELECTIONS_**
+
+Section 1. (1) There shall be a Commission on Elections composed of a Chairman and six Commissioners who shall be natural-born citizens of the Philippines and, at the time of their appointment, at least thirty-five years of age, holders of a college degree, and must not have been candidates for any elective positions in the immediately preceding elections. However, a majority thereof, including the Chairman, shall be members of the Philippine Bar who have been engaged in the practice of law for at least ten years.
