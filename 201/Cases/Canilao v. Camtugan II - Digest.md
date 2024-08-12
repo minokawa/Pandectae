@@ -1,59 +1,10 @@
-Digest
-
-Atty. Carlos M. Canilao
-Engr. Nazita F. Banez
-vs.
-Atty. Francis Rae G. Camtugan II
-    
-This administrative case concerns Atty. Camtugan II (Camtugan), counsel of those affected by  Baguio Mayor Domogan's demolition order. Camtugan challenged the demolition in a 'passionately written' pleading. That pleading is called into the attention of  the Office of the Bar Confidant (OBR) through a complaint against Camtugan. The complaint is penned by members of the city's Anti-Squatting and Illegal Structures Committee - Atty. Canilao and Engr. Banez. The complainant accuses Camtugan of making it appear that Mayor Domogan was the one charged in 'Alangdeo v. Mayor of Baguio', and also misinterpreted another case. That he overstepped the boundaries of courtesy by using the words 'parroting', 'defanged', 'mindless animals', 'open rebellion' and 'blatantly illegal'.  And violated the rule on forum shopping by imploring other government agency. The OBR found it proper to send this issue to IBP-CBD for investigation. 
-
-IBP-CBD recommended the dismissal of the complaint. They stated that the words "parroting" and "defanged", were words of common usage and do not constitute offensive language. While forceful, the words are not offensive in the context they were used. On forum shopping, the IBP-CBD cleared Camtugan of forum shopping, since agencies agencies implored by Camtugan are not part of the judiciary. They did acknowledge Camtugan's misquoting of jurisprudence and that it was a result of his excusable negligence.  
-
-Issue/s
-
-The Court needed to determine whether the following actions of Atty. Camtugan constituted professional misconduct under the CPR:
-
-Did Camtugan knowingly misquote or misrepresent legal texts or decisions a a violation of Rule 10.02, Canon 10 of the CPR?
-
-Did Camtugan's language violate the ethical standards required of lawyers to maintain courtesy, fairness, and candor in their professional dealings
-
-Decision
-
-The Court agreed with the IBP that thdere is no clear case of misconduct.
-
-
-Canon 8, which requires lawyers to conduct themselves with courtesy, fairness, and candor in all their dealings. Canon 10, lawyer shall not knowingly misquote or misrepresent the contents of a paper, the language or argument of the opposing counsel, the text of a decision or authority, or knowingly cite as law a provision already rendered inoperative by repeal or amendment, or assert as a fact that which has not been proved. Canon 12, which focuses on the duty of lawyers to exert all efforts to assist in the speedy and efficient administration of justice. Canon 13, which emphasizes the lawyer's responsibility to maintain the integrity and competence of the legal profession.
-
-Rule 138 Section 20(b) and (f) of the ROC. Section 20(b), lawyers are required to abstain from all offensive personalities and to advance no fact prejudicial to the honor or reputation of a party or witness unless required by the justice of the cause. Section 20(f), lawyers must not knowingly make a false statement of law or fact.
-
-On his language, the Court found that the supposedly offensive words are merely forceful and emphatic, taken within the context within which they were used. 
-
-On the misleading the court, the evidence fell short in establishing the 'act of lying or cheating' and the intention to mislead. However, Camtugan still relied on his own interpretation and conclusions of the cases. He is admonished to be more careful in his future citations.  Camtugan is found GUILTY of violation of Rule 10.02 of the CPR.
-
-
-
----
-
-
-
 Please take notice that the Court, Second Division, issued a Resolution dated 14 March 2022 which reads as follows:
 > 
-> "A.C. No. 11538 (Atty. Carlos M. Canilao and Engr. Nazita F. Banez v. Atty. Francis Rae G. Camtugan II). - 
-> 
-> The instant administrative case stemmed from a complaint 1 filed before the Office of the Bar Confidant by complainants Atty. Carlos M. Canilao and Engr. Nazita Banez (complainants), in their capacities as head of the Baguio City Anti-Squatting and Illegal Structures Committee, and the City Demolition Team and City Building and Architecture, respectively, charging respondent Atty. Francis Rae G. Camtugan II (Atty. Camtugan) with failure to exemplify comiesy, fairness, and candor required by the Lawyer's Oath, in violation of Sections 20(b) and (t), Rule 138 of the Rules of Court, and Canons 8, 10, 12 and 13 of the Code of Professional Responsibility (CPR).
+> "A.C. No. 11538 (Atty. Carlos M. Canilao and Engr. Nazita F. Banez v. Atty. Francis Rae G. Camtugan II). - The instant administrative case stemmed from a complaint 1 filed before the Office of the Bar Confidant by complainants Atty. Carlos M. Canilao and Engr. Nazita Banez (complainants), in their capacities as head of the Baguio City Anti-Squatting and Illegal Structures Committee, and the City Demolition Team and City Building and Architecture, respectively, charging respondent Atty. Francis Rae G. Camtugan II (Atty. Camtugan) with failure to exemplify comiesy, fairness, and candor required by the Lawyer's Oath, in violation of Sections 20(b) and (t), Rule 138 of the Rules of Court, and Canons 8, 10, 12 and 13 of the Code of Professional Responsibility (CPR).
 
 The Facts
 
-Complainants averred that in the petition filed by Atty. Camtugan before the Regional Trial Court of Baguio City, Branch 5 (RTC), seeking to declare null and void the demolition order issued by the Baguio City Mayor against his clients (demolition case), Atty. Camtugan: 
-
-(1) made stipulations that 
-	(a) were without bases, misleading, irrelevant, and malicious; and 
-	(b) attacked the character of the respondents therein, as well as other government agencies which were not parties to the petition; 
-(2) misinterpreted the case of Aquino v. Municipality of Malay, Aklan (Aquino) when he stated that there should be a twin violation of law and ordinance before the power of the Local Government Unit (LOU) to demolish can be allowed; and 
-(3) used words such as 'paiToting' and 'defanged' as if he was referring to respondents therein as 'mindless animals', and the phrase ' open rebellion', and 'blatantly illegal' as overstepping the boundaries of courtesy, fairness, candor and circumspection required to champion his client's cause; and 
-(4) made it appear that Mayor Mauricio G. Domogan was the person charged in the case of Alangdeo v. The City Mayor of Baguio, et al.
-
-They also deplored as another instance of his lack of courtesy the ensuing certiorari petition he filed before the Court of Appeals (CA) against the RTC Order denying his prayer for writ of preliminary injunction in the demolition case. 
+Complainants averred2 that in the petition3 filed by Atty. Camtugan before the Regional Trial Court of Baguio City, Branch 5 (RTC), seeking to declare null and void the demolition order issued by the Baguio City Mayor against his clients (demolition case), Atty. Camtugan: (1) made stipulations that (a) were without bases, misleading, irrelevant, and malicious; and (b) attacked the character of the respondents therein, as well as other government agencies which were not parties to the petition; (2) misinterpreted the case of Aquino v. Municipality of Malay, Aklan4 (Aquino) when he stated that there should be a twin violation of law and ordinance before the power of the Local Government Unit (LOU) to demolish can be allowed; and (3) used words such as 'paiToting' and 'defanged' as if he was referring to respondents therein as 'mindless animals', and the phrase ' open rebellion', and 'blatantly illegal' as overstepping the boundaries of courtesy, fairness, candor and circumspection required to champion his client's cause; and ( 4) made it appear that Mayor Mauricio G. Domogan was the person charged in the case of Alangdeo v. The City Mayor of Baguio, et al.5 They also deplored as another instance of his lack of courtesy the ensuing certiorari petition he filed before the Court of Appeals (CA) against the RTC Order denying his prayer for writ of preliminary injunction in the demolition case. 
 
 In his Comment,7 Atty. Camtugan prayed for the dismissal of the complaint, countering that he merely prepared a passionately written pleading, and that it was the complainants who twisted portions thereof to make them appear as the victims. He denied: (a) attacking the government agencies not impleaded in the case, which were mentioned only to establish a factual account of the basis for his clients' claims; (b) maliciously misinterpreting certain cases in his petition as he only cited cases that he deemed relevant to his clients' case; and (c) comparing complainants to "mindless animals" as the words 'parroting' and 'defanged' were only figures of speech he used to emphasize his arguments. 
 
@@ -84,6 +35,8 @@ Recognizing the adversarial nature of our legal system which has necessitated la
 In Chua v. Pascua 19 (Chua), the Court had the occasion to rule that while some words and phrases, such as 'duped,' 'to take advantage of the innocence of,' 'his ignorance and abusive manner,' and 'foolishness' (used by respondent lawyer to refer to one of the adverse parties), and 'bungling' ( even if used to refer to the act of the trial judge) can at times be considered as off-color or even as abrasive, their being so considered depends on the specific context or situation in which they are used or uttered. That they have synonyms or alternatives that are more or less expressive does not warrant characterizing them as excessive, intemperate or offensive. Considering the context where they were used, the Court treated them as words of common usage in our daily life, and to be understood by what they ordinarily convey.
 
 Following the ruling in Chua, the IBP-CBD in its Report and Recommendation correctly found the words 'parroting' and 'defanged' as words of common usage in our daily life. The Court has perused the records and found that the use of said words was merely forceful and emphatic, taken within the context within which they were used. Moreover, as observed by the IBP-CBD, even the RTC, which was the recipient of some of Atty. Camtugan's lashings, merely let go of the matter, and even complimented his zeal and vigor in advancing his client's cause, with the advise to nip his sharp tongue or be mindful of when to lash out.
+
+  
 
 However, the Court finds Atty. Camtugan to have violated Rule 10.02, Canon 10 of the CPR when he stated in the petition in the demolition case that Aquino required a twin violation of law and ordinance before the power of the LGU to demolish can be allowed. While the IBP-CBD found that Atty. Camtugan should be admonished for misinterpreting Aquino, it recommended the dismissal of the complaint.
 
