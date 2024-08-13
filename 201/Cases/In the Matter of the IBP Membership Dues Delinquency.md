@@ -1,6 +1,6 @@
 Atty. Marcial A. Edillon
 v.
-The Integrated Bar of the Philippines (IBP), represented by its then President, Liliano B. Neri, and the IBP Board of Governors.
+The Integrated Bar of the Philippines (IBP)
 
 The subject of this case is  Atty. Marcial A. Edillon (Edillon) and his refusal to pay the required IBP membership dues. Edillon refused to pay, reasoning that the requirement was a violation of his constitutional rights. Edillon is antagonistic to the idea of being compelled to be a member of the IBP as a pre-condition to maintaining his status as a lawyer in good standing. He viewed the fees as a form of compelled financial support to an organization he does not agree with.
 
