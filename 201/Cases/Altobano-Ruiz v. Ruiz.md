@@ -22,9 +22,7 @@ On Atty. Benedicto. The complaint was also dismissed for lack of merit. The IBP-
 
 Issues:
 
-Atty. Ruiz committed economic abuse, emotional abuse, and gross immorality by failing to provide support to his child despite court orders and engaging in an illicit relationship.
-
-Atty. Ruiz exploited court processes, engaged in deceitful and dishonest conduct, and unduly delayed the case, thereby violating multiple rules of the CPR.
+Atty. Ruiz committed economic abuse, emotional abuse, and gross immorality by failing to provide support to his child despite court orders and engaging in an illicit relationship. He also exploited court processes, engaged in deceitful and dishonest conduct, and unduly delayed the case, thereby violating multiple rules of the CPR.
 
 The responsibility and conduct of Atty. Cherry Anne Dela Cruz and Atty. Francisco S. Benedicto, and whether they ere involved in any wrongdoing or conspiracy with Atty. Ruiz.
 
@@ -32,9 +30,9 @@ Decision:
 
 The Supreme Court upheld the recommendation for Atty. Ruiz’s disbarment due to his serious violations of professional conduct. 
 
-Dismissing the claims against Atty. Dela Cruz and Atty. Benedicto for lack of evidence. The Court's ratio is focused on the serious nature of Atty. Ruiz's conduct, which not only violated professional ethics but also demonstrated a profound disregard for legal and familial responsibilities. 
+Dismissing the claims against Atty. Dela Cruz and Atty. Benedicto for lack of evidence. The Court's ratio is focused on the serious nature of Ruiz's conduct, which not only violated professional ethics but also demonstrated a profound disregard for legal and familial responsibilities. 
 
-Atty. Ruiz’s refusal to provide support to his child, despite clear court orders, constituted economic abuse and gross immorality. His actions violated Rules 1.01 - prohibition against unlawful, dishonest, immoral, or deceitful conduct, and 7.03 - conduct adversely reflecting on fitness to practice law.
+Ruiz’s refusal to provide support to his child, despite clear court orders, constituted economic abuse and gross immorality. His actions violated Rules 1.01 - prohibition against unlawful, dishonest, immoral, or deceitful conduct, and 7.03 - conduct adversely reflecting on fitness to practice law.
 
 His actions were seen as deceitful and aimed at obstructing justice. The repeated use of false addresses to avoid court processes and delay the execution of judgments violated Rules 10.01 - prohibition against falsehoods in court, and 10.03 - observance of procedural rules and not misusing them of the CPR. And entering into an illegal agreement with his mistress to avoid financial obligations to his child, violated Rule 12.04 - prohibition against undue delay and misuse of court processes.
 
