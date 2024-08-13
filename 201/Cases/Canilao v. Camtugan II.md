@@ -28,5 +28,5 @@ Rule 138 Section 20(b) and (f) of the ROC. Section 20(b), lawyers are required t
 
 On his language, the Court found that the supposedly offensive words are merely forceful and emphatic, taken within the context within which they were used. 
 
-On the misleading the court, the evidence fell short in establishing the 'act of lying or cheating' and the intention to mislead. However, Camtugan still relied on his own interpretation and conclusions of the cases. He is admonished to be more careful in his future citations.  Camtugan is found GUILTY of violation of Rule 10.02 of the CPR.
+On him misleading the court, the evidence fell short in establishing the 'act of lying or cheating' and the intention to mislead. However, Camtugan still relied on his own interpretation and conclusions of the cases. He is admonished to be more careful in his future citations.  Camtugan is found GUILTY of violation of Rule 10.02 of the CPR.
 
