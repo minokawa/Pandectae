@@ -24,6 +24,3 @@ The Court emphasized that in administrative cases, the required quantum of evide
 Section 5 of Rule 139-B of the Rules of Court, provides that if a complaint does not merit action, or if the answer shows that the complaint is not meritorious, it may be dismissed by the Board of Governors upon recommendation of the Investigating Commissioner.
 
 
-(Sgd.) TERESITA AQUINO TUAZON
-
-Deputy Division Clerk of Court
