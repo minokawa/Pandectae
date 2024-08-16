@@ -1,6 +1,6 @@
-The subject of this case is a complaint by Atty.  Cabarroguis against Atty. Basa. A complaint focused on the alleged unethical and retaliatory conduct of Basa to discredit and harrass Cabarroguis.
+Cabarroguis v. Basa
 
-  
+The subject of this case is a complaint by Atty.  Cabarroguis against Atty. Basa. A complaint focused on the alleged unethical and retaliatory conduct of Basa to discredit and harrass Cabarroguis.
 
 Cabarroguis points out dilatory tactics during the trial of an estafa case filed by his client against Basa's sister. Apart from receiving Retaliatory cases filings for his involvement, a consecutive inhibitions by presiding judges has led to a delay of the case, this is said to be a doing of Basa. That there is unprofessional behavior by Basa, a mockery by repeatedly misspelling  Cabarroguis' first name in documents.  And as an effort to discredit Cabarroguis, Basa alleggedly gathered and used the court's database records, this is argued to be a violation of Cabarroguis' right to privacy.
 
