@@ -1,0 +1,2 @@
+**Principle of Shared Responsibility**
+>  The State shall promote the principle of shared responsibility between workers and employers and the preferential use of voluntary modes in settling disputes, including conciliation, and shall enforce their mutual compliance therewith to foster industrial peace. Art13 S3 par3 of  Consti

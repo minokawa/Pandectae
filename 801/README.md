@@ -1,16 +1,20 @@
 ### Fundamental Principles and Concepts
 Labor Laws and Social Legislation 
->**Social legislations** - laws, rules, and regulations that promote welfare of all sectors of society. Includes those that provide particular protection or benefits to the society. 
->**Labor laws** - affect and govern employment. All labor laws are a subset of social legislations. 
+>**Social legislations** - aws, rules, and regulations that promote welfare of all sectors of society. 
+Social legislation includes laws that provide particular kinds of protection or benefits to the society, in furtherance of social justice. Not all social legislations are labor laws.
+>**Labor laws** - establishes labour practices and employment standards. 
+It directly affect employment, they directly govern effects of employment. All labor laws are social legislations. But not all social legislations are labor laws. . 
 
+#### [Kinds of Labor Laws](Definitions/Kinds%20of%20Labor%20Laws.md)
 #### Introduction: General Provisions, [Articles 1-6](Definitions/Articles%201-6.md)
 
 #### Constitutional and statutory provisions related to labor law
-> - [ARTICLE II Declaration of Principles and State Policies](../301-302-CONSTI/CONSTITUTIONS/1987/ARTICLE%20II%20Declaration%20of%20Principles%20and%20State%20Policies.md)
-> - [ARTICLE XII National Economy and Patrimony](../301-302-CONSTI/CONSTITUTIONS/1987/ARTICLE%20XII%20National%20Economy%20and%20Patrimony.md)
-> - [ARTICLE XIII Social Justice and Human Rights](../301-302-CONSTI/CONSTITUTIONS/1987/ARTICLE%20XIII%20Social%20Justice%20and%20Human%20Rights.md)
+> - [ART2 S10 S18 S20](Definitions/ART2%20S10%20S18%20S20.md)
+> - [ART12 S12](Definitions/ART12%20S12.md)
+> - [ART13 S1 S3](Definitions/ART13%20S1%20S3.md) 
 #### Civil Code
 > - [Contract of Labor](Definitions/Contract%20of%20Labor.md)
+> - [CivCode Book 4 - Work and Labor](Definitions/CivCode%20Book%204%20-%20Work%20and%20Labor.md)
 #### State policy towards labor
 > - [Security of tenure](Definitions/Security%20of%20tenure.md)
 > - [Social justice](Definitions/Social%20justice.md)
@@ -30,8 +34,11 @@ Labor Laws and Social Legislation
 >- [Navarro v. Coca Cola Bottlers](Cases/Navarro%20v.%20Coca%20Cola%20Bottlers.md) Phils, GR162583, June 8, 2007
 >- [G and M Philippines Inc. v. Cuambot](Cases/G%20and%20M%20Philippines%20Inc.%20v.%20Cuambot.md), GR162308, November 22, 2006
 >- [Angelica Francisco v. NLRC](Cases/Angelica%20Francisco%20v.%20NLRC.md) GR170087, August 31, 2006
+>	Economic Test- Francisco was economically dependent on Kasei Corporation, having worked there for several years and received compensation in the form of salaries, bonuses, and benefits. Her work was integral to the corporation’s operations, further supporting the existence of an employer-employee relationship.
 >- [Great Pacific Life Insurance Corporation v. Judico](Cases/Great%20Pacific%20Life%20Insurance%20Corporation%20v.%20Judico.md), GR73887, December 21, 1989
+>	Control Test- An employee is considered regular if they are engaged in activities that are usually necessary or desirable in the usual business or trade of the employer.
 >- [Tongko v. The Manufacturers Life and De Dios](Cases/Tongko%20v.%20The%20Manufacturers%20Life%20and%20De%20Dios.md), GR167622, June 29, 2010
+>	ERRONEOUS APPLICATION OPF THE 4 FOLD TEST
 >- [Sonza v. ABS-CBN](Cases/Sonza%20v.%20ABS-CBN.md), GR138051, June 10, 2004
 >- [Thelma Dumpit-Morillo v. CA](Cases/Thelma%20Dumpit-Morillo%20v.%20CA.md), GR164652, June 8, 2007
 >- [Fuji Television Network v. Arlene Espiritu](Cases/Fuji%20Television%20Network%20v.%20Arlene%20Espiritu.md), GR204944- 45, December 3, 2014
@@ -42,6 +49,12 @@ Labor Laws and Social Legislation
 >- [Century Properties v. Edwin Babiano](Cases/Century%20Properties%20v.%20Edwin%20Babiano.md) GR220987, July 5, 2016
 >- [Bitoy Javier v. Fly Ace Corporation](Cases/Bitoy%20Javier%20v.%20Fly%20Ace%20Corporation.md), GR192558, February 15, 2012
 >- [Southeast International Rattan v. Coming](Cases/Southeast%20International%20Rattan%20Inc%20v.%20Coming.md), GR186621, March 12, 2014
+>- [Valencia v. Classic vinyl](Cases/Valencia%20v.%20Classic%20vinyl.md) 2017
+>	Another employee-employer relationship, but with an manpower agency involved.
+>- [Agabon vs NLRC](Cases/Agabon%20vs%20NLRC.md) 2004
+>  Supports  entitlement to employee salary claims despite the dismissal being for just cause
+>- [Calalang v. Williams](Cases/Calalang%20v.%20Williams.md)
+>  Illustrates the definition of Social Justice and the Balance Between Liberty and Authority.
 
 #### Who are Covered
 > - [Definition of employer and employee](Definitions/Definition%20of%20employer%20and%20employee.md) 
@@ -59,7 +72,7 @@ Labor Laws and Social Legislation
 >-   [Jocelyn M. Galera v. WPP Marketing](Cases/Jocelyn%20M.%20Galera%20v.%20WPP%20Marketing.md), GR169207/GR169239, March 25, 2010
 >-   [Television And Production Exponents v. Servana](Cases/Television%20And%20Production%20Exponents%20v.%20Servana.md), GR167648, January 28, 2008
 
-#### Kinds of Employees, [Art 279, 280, 281](Art%20279,%20280,%20281)
+#### Kinds of Employees, [Art 279, 280, 281](Definitions/Art%20279,%20280,%20281.md)
 
 #### Cases
 >-   [Philippine Bank of Communications v. NLRC](Cases/Philippine%20Bank%20of%20Communications%20v.%20NLRC.md) 146 SCRA 347

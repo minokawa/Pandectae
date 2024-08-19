@@ -1,0 +1,4 @@
+##### Definition of employer and employee in the context of Labor Standards
+**_“Employer”_** – includes any person acting in the interest of an employer, directly or indirectly. The term shall not include any labor organization or any of its officers or agents except when acting as employer. (Article 219[e], _Ibid_.)
+
+**_“Employee”_** – includes any person in the employ of an employer. The term shall not be limited to the employees of a particular employer, unless the Code so explicitly states. It shall include any individual whose work has ceased as a result of or in connection with any current labor dispute or because of any unfair labor practice if he has not obtained any other substantially equivalent and regular employment. (Article 219, P.D. 442, Labor Code)

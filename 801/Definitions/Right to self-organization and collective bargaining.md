@@ -1,0 +1,3 @@
+
+**Right to self-organization and collective bargaining**
+> The right to form, join or assist labor organizations for the purpose of collective bargaining through representatives of their own choosing and to engage in lawful concerted activities for the same purpose for their mutual aid and protection. This is in line with the policy of the State to foster the free and voluntary organization of a strong and united labor movement as well as to make sure that workers participate in policy and decision-making processes affecting their rights, duties and welfare. (_Samahan ng Manggagawa sa Hanjin Shipyard v. Bureau of Labor Relations_, G. R. No. 211145, 14 October 2015)

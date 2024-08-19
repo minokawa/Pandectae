@@ -1,0 +1,2 @@
+**Burden of proof and quantum of evidence**
+> "SECTION 1.  Burden of proof. — Burden of proof is the duty of a party to present evidence on the facts in issue necessary to establish his claim or defense by the amount of evidence required by law." - RULE 131 **RULES ON EVIDENCE**
