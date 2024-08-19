@@ -1,363 +1,183 @@
-  
-
-- [ ] NPC v. Pinatubo Commercial, G.R. No. 176006, 26 March | 2010
-
-- [ ] Pimentel v. Senate Committee of the Whole, GR No. 187714, 8 March | 2011
-
-- [ ] Nagkakaisang Maralita ng Sitio Masigasig, Inc. v. Military Shrine Services - Philippine Veterans Affairs Office, Department of National Defense, G. R. No. 187587, 5 June | 2013
-
-- [ ] Fortuna v. Republic of the Philippines, G.R. No. 173423, 5 March | 2014
-
-- [ ] Manila Public School Teachers' Association v. Garcia, G.R. No. 192708, 2 October | 2017
-
-- [ ] Castillo v. De Leon Castillo, G.R. No. 189607, 18 April | 2016
-
-- [ ] Dacudao v. Secretary of Justice, G.R. No. 188056, 8 January | 2013
-
-- [ ] Philippine International Trading Corporation v. Commission on Audit, G.R. No. 205837, 21 November | 2017
-
-- [ ] F.F. Cruz & Co., Inc. v. HR Construction Corp., G.R. No. 187521, 14 March | 2012
-
-- [ ] Mabugay-Otamias v. Republic, G.R. No. 189516, June 08, | 2016
-
-- [ ] Belgica v. Executive Secretary Ochoa, G.R. No. 208566, 19 November | 2013
-
-- [ ] Umali v. The Judicial and Bar Council, G.R. No. 228628, 25 July | 2017
-
-- [ ] Dee v. Harvest All Investment Limited, G.R. No. 224834, 15 March | 2017
-
-- [ ] Del Socorro v. Brinkman Van Wilsem, G.R. No. 193707, December 10, | 2014
-
-- [ ] Industrial Personnel & Management Services, Inc. (IPAMS) v. De Vera, G.R. No. 205703, 7 March | 2016
-
-- [ ] Nedlloyd Lijnen B.V. Rotterdam v. Glow Laks Enterprises, Ltd., G.R. No. 156330, 19 November | 2014
-
-- [ ] Go v. Cordero, G.R. No. 164703, 4 May | 2010
-
-- [ ] Villanueva v. Rosqueta, G.R. No. 180764, 19 January | 2010
-
-- [ ] Ardiente v. Pastorfide, G.R. No. 161921, 17 July | 2013
-
-- [ ] Philippine Commercial International Bank v. Gomez, G.R. No. 199601, 23 November | 2015
-
-- [ ] St. Martin Polyclinic, Inc. v. LWV Construction Corp., G.R. No. 217426, 4 December | 2017
-
-- [ ] Metroheights Subdivision Homeowners Association Inc. v. CMS Construction and Development Corp., G.R. No. 209359, 17 October | 2018
-
-- [ ] The Orchard Golf & Country Club, Inc. v. Yu, G.R. No. 191033, 11 January | 2016
-
-- [ ] Carbonell v. Metropolitan Bank and Trust Company, G.R. No. 178467, April 26, | 2017
-
-- [ ] Shinryo (Philippines) Company, Inc. v. RRN Inc., G.R. No. 172525, 20 October | 2010
-
-- [ ] Elegir v. Philippine Airlines, Inc., G.R. No. 181995, 16 July | 2012
-
-- [ ] Beumer v. Amores, G.R. No. 195670, December 03, | 2012
-
-- [ ] Gonzalo v. Tarnate, Jr., G.R. No. 160600, January 15, | 2014
-
-- [ ] Rodriguez v. Your Own Home Development Corp., G.R. No. 199451, August 15, | 2018
-
-- [ ] Padalhin v. Lavina, G.R. No. 183026, 14 November | 2012
-
-- [ ] Willaware Products Corporation v. Jesichris Manufacturing Corporation, G.R. No. 195549, 3 September | 2014
-
-- [ ] Manila Electric Company v. Castillo, G.R. No. 182976, 14 January | 2013
-
-- [ ] Supreme Transportation Liner, Inc. v. San Andres, G.R. No. 200444, 15 August | 2018
-
-- [ ] People v. Agacer, G.R. No. 177751, 7 January | 2013
-
-- [ ] Daluraya v. Oliva, G.R. No. 210148, December 08, | 2014
-
-- [ ] People v. Go, G.R. No. 168539, 25 March | 2014
-
-- [ ] Calang v. People, G.R. No. 190696, 3 August | 2010
-
-- [ ] Estate of Poblador, Jr. v. Manzano, G.R. No. 192391, 19 June | 2017
-
-- [ ] Capili v. People, G.R. No. 183805, 3 July | 2013
-
-- [ ] San Miguel Proeprties, Inc., v. Perez, G.R. No. 166836, 4 September | 2013
-
-- [ ] Consing, Jr. v. People of the Philippines, G.R. No. 161075, 15 July | 2013
-
-- [ ] Pimentel v Pimentel, G.R. No. 172060, 13 September | 2010
-
-- [ ] Domingo v. Singson, G.R. No. 203287, 5 April | 2017
-
-- [ ] Republic v. Batuigas, G.R. No. 183110, 7 October | 2013
-
-- [ ] Tilar v. Tilar, G.R. No. 214529, 12 July | 2017
-
-- [ ] Calimag v. Heirs of Macapaz, G.R. No. 191936, 1 June | 2016
-
-- [ ] Republic v. Albios, G.R. No. 198780, October 16, | 2013
-
-- [ ] Keuppers v. Murcia, A.M. No. MTJ-15-1860, 3 April | 2018
-
-- [ ] Abbas v. Abbas; G.R. No. 183896, 30 January | 2013
-
-- [ ] Go-Bangayan v. Bangayan, Jr., G.R. No. 201061, 3 July | 2013
-
-- [ ] Kho v. Republic, G.R. No. 187462, 1 June | 2016
-
-- [ ] Diaz-Salgado v. Anson, G.R. No. 204494, 27 July | 2016
-
-- [ ] Lavadia v. Heirs of Luna, G.R. No. 171914, 23 July | 2014
-
-- [ ] Republic v. Manalo, G.R. No. 221029, 24 April | 2018
-
-- [ ] Juego-Sakai v. Republic, G.R. No. 224015, 23 July | 2018
-
-- [ ] Corpuz v. Sto. Tomas, G.R. No. 186571, 11 August | 2010
-
-- [ ] Medina v. Michiyuki Koike, G.R. No. 215723, 27 July | 2016
-
-- [ ] Republic v. Cote, G.R. No. 212860, 14 March | 2018
-
-- [ ] Sarto v. People, G.R. No. 206284, 28 February | 2018
-
-- [ ] Morisono v. Morisono, G.R. No. 226013, 2 July | 2018
-
-- [ ] Santiago v. People, G.R. No. 200233, 15 July | 2015
-
-- [ ] Montañez v. Cipriano, G.R. No. 181089, 22 October | 2012
-
-- [ ] Enriquez Vda. De Catalan v. Catalan-Lee, G. R. No. 183622, 8 February | 2012
-
-- [ ] Social Security Commission v. Azote, G.R. No. 209741, 15 April | 2015
-
-- [ ] Republic v. Tampus, G.R. No. 214243, 16 March | 2016
-
-- [ ] Republic v. Sareñogon, Jr., G.R. No. 199194, 10 February | 2016
-
-- [ ] Republic v. Granada, G.R. No. 187512, 13 June | 2012
-
-- [ ] Republic v. Narceda, G.R. No. 182760, 10 April | 2013
-
-- [ ] Republic v. Cantor, G.R. No. 184621, 10 December | 2013
-
-- [ ] Santos v. Santos, G.R. No. 187061, 8 October | 2014
-
-- [ ] Republic v. Orcelino-Villanueva, G.R. No. 210929, 29 July | 2015
-
-- [ ] Republic v. Catubag, G.R. No. 210580, 18 April | 2018
-
-- [ ] Tadeo-Matias v. Republic, G.R. No. 230751, 25 April | 2018
-
-- [ ] Castillo v. De Leon Castillo, G.R. No. 189607, 18 April | 2016
-
-- [ ] Vitangcol v. People, G.R. No. 207406, 13 January | 2016
-
-- [ ] Agraviador v. Agraviador, G.R. No. 170729, 8 December | 2010
-
-- [ ] Camacho-Reyes v. Reyes, G.R. No. 185286, 18 August | 2010
-
-- [ ] Toring v. Toring, G.R. No. 165321 3 August | 2010
-
-- [ ] Suazo v. Suazo, G.R. No. 164493, 10 March | 2010
-
-- [ ] Yambao v. Republic of the Philippines, G.R. No. 184063, 24 January | 2011
-
-- [ ] Matudan v. Republic, G.R. No. 203284, 14 November | 2016
-
-- [ ] Republic v. Court of Appeals, G.R. No. 159594, 12 November | 2012
-
-- [ ] Republic v. Encelan; G.R. No. 170022, 9 January | 2013
-
-- [ ] Mendoza v. Republic, G.R. No. 157649, 12 November | 2012
-
-- [ ] Republic v. Galang, G.R. No. 168335, 6 June | 2011
-
-- [ ] Ochosa v. Alano, G.R. No. 167459, 26 January | 2011
-
-- [ ] Republic v. De Gracia, G.R. No. 171557, 12 February | 2014
-
-- [ ] Kalaw v. Fernandez, G.R. No. 166357, 14 January | 2015
-
-- [ ] Viñas v. Parel-Vi√±as, G.R. No. 208790, 21 January | 2015
-
-- [ ] Republic v. Romero II, G.R. No. 209180, 24 February | 2016
-
-- [ ] Castillo v. Republic, G.R. No. 214064, 6 February | 2017
-
-- [ ] Del Rosario v. Del Rosario, GR. No. 222541, 15 February | 2017
-
-- [ ] Garlet v. Garlet, G.R. No. 193544, 2 August | 2017
-
-- [ ] Lonton-Cruz v. Cruz, G.R. No. 201988, 11 October | 2017
-
-- [ ] Bakunawa III v. Bakunawa, G.R. No. 217993, 9 August | 2017
-
-- [ ] Singson v. Singson, G.R. No. 210766, 8 January | 2018
-
-- [ ] Republic v. Tobora-Tionglico, G.R. No. 218630, 11 January | 2018
-
-- [ ] Espina-Dan v. Dan, G.R. No. 209031, 16 April | 2018
-
-- [ ] Republic v. Javier, G.R. No. 210518, 18 April | 2018
-
-- [ ] Republic v. Mola Cruz, G.R. No. 236629, 23 July | 2018
-
-- [ ] Republic v. Olaybar, G.R. No. 189538, 10 February | 2014
-
-- [ ] Garcia-Quiazon v. Belen, G.R. No. 189121, 31 July | 2013
-
-- [ ] Minoru Fujiki v. Marinay, G.R. No. 196049, 26 June | 2013
-
-- [ ] Yu v. Reyes-Carpio, G.R. No. 189207, 15 June | 2011
-
-- [ ] Yu v. Lim-Yu, G.R. No. 200072, 20 June | 2016
-
-- [ ] Juliajvo-Llave v. Republic, G. R. No. 169766, 30 March | 2011
-
-- [ ] Ablaza v. Republic, G.R. No. 158298, 11 August | 2010
-
-- [ ] Diño v. Diño, G.R. No. 178044, 19 January | 2011
-
-- [ ] Lim-Lua v. Lua, G.R. Nos. 175279-80, 5 June | 2013
-
-- [ ] Busuego v. Office of the Ombudsman, G.R. No. 196842, 9 October | 2013
-
-- [ ] Siochi v. Gozon, G.R. No. 169900, 169977, 18 March | 2010
-
-- [ ] Valino v. Adriano, G.R. No. 182894, 22 April | 2014
-
-- [ ] Nobleza v. Nuega, G.R. No. 193038, 11 March | 2015
-
-- [ ] Flores v. Spouses Lindo, Jr., G.R. No. 183984, 13 April | 2011
-
-- [ ] Imani v. Metropolitan Bank & Trust Co., G.R. No. 187023, 17 November | 2010
-
-- [ ] Dela Peña v. Avila, G.R. No. 187490, 8 February | 2012
-
-- [ ] Titan Construction Corporation v. David, G.R. No. 169548, 15 March | 2010
-
-- [ ] Tan v. Andrade, G.R. No. 171904, 7 August | 2013
-
-- [ ] Onstott v. Upper Tagpos Neighborhood Association, Inc., G.R. No. 221047, 14 September | 2016
-
-- [ ] Orsolino v. Frany, G.R. No. 193887, 29 March | 2017
-
-- [ ] Borlongan v. Banco de Oro, G.R. Nos. 217617 & 218540 (Resolution), 5 April | 2017
-
-- [ ] Pana v. Heirs of Juanite, Sr., G.R. No. 164201, 10 December | 2012
-
-- [ ] Delos Santos v. Abejon, G.R. No. 215820, 20 March | 2017
-
-- [ ] Borlongon v. Banco De Oro, G.R. No. 217617, 5 April | 2017
-
-- [ ] Boston Equity Resources Inc. v. Del Rosario, G.R. No. 193228, 27 Noveber | 2017
-
-- [ ] Heirs of Go, Sr. v. Servacio, G.R. No. 157537, 7 September | 2011
-
-- [ ] Ros v. Philippine National Bank, G.R. No. 170166, 6 April | 2011
-
-- [ ] Aggabao v. Parulan, G.R. No. 165803, 1 September | 2010
-
-- [ ] Fuentes v. Roca, G.R. No. 178902, 21 April | 2010
-
-- [ ] Dadis v. De Guzman, G.R. No. 206008, 7 June | 2017
-
-- [ ] Ko v. Aramburo, G.R. No. 190995, 9 August | 2017
-
-- [ ] Alejo v. Cortez, G.R. No. 206114, 19 June | 2017
-
-- [ ] Carlos v. Tolentino, G.R. No. 234533, 27 June | 2018
-
-- [ ] Quiao v. Quiao, G.R. No. 176556, 4 July | 2012
-
-- [ ] Domingo v. Spouses Molina, G.R. No. 200274, 20 April | 2016
-
-- [ ] Uy v. Fernandez, G.R. No. 200612, 5 April | 2017
-
-- [ ] Ocampo v. Ocampo, G.R. No. 198908, 3 August | 2015
-
-- [ ] Barrido v. Nonato, G.R. No. 176492, 20 October | 2014
-
-- [ ] Diño v. Diño, G.R. No. 178044, 19 January | 2011
-
-- [ ] Salas, Jr. v. Eden Villena Aguil, G.R. No. 202370, 23 September | 2013
-
-- [ ] Ventura, Jr. v. Abuda, G.R. No. 202932, 23 October | 2013
-
-- [ ] Banguis-Tambuyat v. Balcom-Tambuyat, G.R. No. 202805, 23 March | 2015
-
-- [ ] Eulogio v. Bell, Sr., G.R. No. 186322, 8 July | 2015
-
-- [ ] Aguilar v. Siasat, G.R. No. 200169, January 28, | 2015
-
-- [ ] Salas v. Matusalem, G.R. No. 180284, 11 September | 2013
-
-- [ ] Heirs of Roldan v. Heirs of Roldan, G.R. No. 202578, 27 September | 2017
-
-- [ ] Nepomuceno v. Lopez, G.R. No. 181258, 18 March | 2010
-
-- [ ] Perla v. Baring, G.R. No. 172471, 12 November | 2012
-
-- [ ] Lucas v. Lucas, G.R. No. 190710, 6 June | 2011
-
-- [ ] Tinitigan v. Republic, G.R. No. 222095, 7 August | 2017
-
-- [ ] Castro v. Gregorio, G.R. No. 188801, 15 October | 2014
-
-- [ ] Bartolome v. Social Security System, G.R. No. 192531, 12 November | 2014
-
-- [ ] Geronimo v. Santos, G.R. No. 197099, 28 September | 2015
-
-- [ ] Gotardo v. Buling, G.R. No. 165166, 15 August | 2012
-
-- [ ] Imbong v. Ochoa, Jr., G.R. No. 204819, 8 April | 2014
-
-- [ ] Recto v. Trocino, A.M. No. RTJ-17-2508, 7 November | 2017
-
-- [ ] Masbate v. Relucio, G.R. No. 235498, 30 July | 2018
-
-- [ ] Gamboa-Hirsch v. Court of Appeals, G.R. No. 174485, 11 July | 2007
-
-- [ ] Dacasin v. Dacasin, G.R. No. 168785, 5 February | 2010
-
-- [ ] Caravan Travel and Tours International, Inc. v. Abejar, G.R. No. 170631, 10 February | 2016
-
-- [ ] Aquinas School v. Inton, G.R. No. 184202, 26 January | 2011
-
-- [ ] St. Joseph's College v. Miranda, G.R. No. 182353, 29 June | 2010
-
-- [ ] St. Luke's College of Medicine-William H. Quasha Memorial Foundation v. Perez, G.R. No. 222740, 28 September | 2016
-
-- [ ] Gan v. Republic, G.R. NO. 207147, 14 September | 2016
-
-- [ ] Grande v. Antonio, G.R. No. 206248, 18 February | 2014
-
-- [ ] Remo v. Secretary of Foreign Affairs, G.R. No. 169202, 5 March | 2010
-
-- [ ] Yasuo Iwasawa v. Gangan, G.R. No. 204169, 11 September | 2013
-
-- [ ] Baldos v. Court of Appeals, G.R. No. 170645, 9 July | 2010
-
-- [ ] Republic v. Coseteng-Magpayo, G.R. No. 189476, 2 February | 2011
-
-- [ ] Republic v. Lugsanay Uy, G.R. No. 198010, 12 August | 2013
-
-- [ ] Chua v. Republic, G.R. No. 231998, 20 November | 2017
-
-- [ ] Republic v. Tipay, G.R. No. 209527, 14 February | 2018
-
-- [ ] Tan-Andal v. Andal, G.R. No. 196359, 11 May | 2021
-
-- [ ] Alanis III v. CA, G.R. No. 216415, 11 November | 2020
-
-- [ ] Malaki v. People, G.R. No. 221075
-
-- [ ] Aguino v. Aquino, G.R. Nos. 208912 and 209018
-
-- [ ] Acharon v. People, G.R. No. 224946 | 2021
-
-- [ ] Ordona v. Local Civil Registrar of Pasig, G.R. No. 215370 | 2021
-
-- [ ] Pulido v. People, G.R. No. 220149, 27 July | 2021
-
-- [ ] Yap v. Yap, G.R. No. 222259, 17 October | 2022
-
-- [ ] Spouses Gabun v. Stolk, G.R. No. 234660, 26 June  2023
+- [Spouses%20Gabun%20versus%20Stolk](Cases/Spouses%20Gabun%20versus%20Stolk.md),GR234660,2023
+>In essence, this dispute is about the custody of a minor child, Winston, contesting the decision to grant custody to the biological father based on procedural grounds and concerns about the father's fitness.
+- [Yap%20versus%20Yap](Cases/Yap%20versus%20Yap.md),GR222259,2022
+>Involves the presumption of legitimacy of a child born within a valid marriage and whether this presumption can be impugned in a case not specifically filed for that purpose - the partition of an estate..
+- [Tan-Andal%20versus%20Andal](Cases/Tan-Andal%20versus%20Andal.md),GR196359,2021
+- [Malaki%20versus%20People](Cases/Malaki%20versus%20People.md),GR221075,2021
+- [Aguino%20versus%20Aquino](Cases/Aguino%20versus%20Aquino.md),GR208912%20and%20209018,2021
+- [Acharon%20versus%20People](Cases/Acharon%20versus%20People.md),GR224946,2021
+- [Ordona%20versus%20Local%20Civil%20Registrar](Cases/Ordona%20versus%20Local%20Civil%20Registrar.md),GR215370,2021
+- [Pulido%20versus%20People](Cases/Pulido%20versus%20People.md),GR220149,2021
+- [Alanis%20III%20versus%20CA](Cases/Alanis%20III%20versus%20CA.md),GR216415,2020
+- [Metroheights%20versus%20CMS%20Construction](Cases/Metroheights%20versus%20CMS%20Construction.md),GR209359,2018
+- [Rodriguez%20versus%20Your%20Own%20Home%20Dev](Cases/Rodriguez%20versus%20Your%20Own%20Home%20Dev.md),GR199451,2018
+- [Supreme%20Transpo%20versus%20San%20Andres](Cases/Supreme%20Transpo%20versus%20San%20Andres.md),GR200444,2018
+- [Keuppers%20versus%20Murcia](Cases/Keuppers%20versus%20Murcia.md),AMMTJ-15-1860%20,2018
+- [Republic%20versus%20Manalo](Cases/Republic%20versus%20Manalo.md),GR221029,2018
+- [Juego-Sakai%20versus%20Republic](Cases/Juego-Sakai%20versus%20Republic.md),GR224015,2018
+- [Republic%20versus%20Cote](Cases/Republic%20versus%20Cote.md),GR212860,2018
+- [Sarto%20versus%20People](Cases/Sarto%20versus%20People.md),GR206284,2018
+- [Morisono%20versus%20Morisono](Cases/Morisono%20versus%20Morisono.md),GR226013,2018
+- [Republic%20versus%20Catubag](Cases/Republic%20versus%20Catubag.md),GR210580,2018
+- [Tadeo-Matias%20versus%20Republic](Cases/Tadeo-Matias%20versus%20Republic.md),GR230751,2018
+- [Singson%20versus%20Singson](Cases/Singson%20versus%20Singson.md),GR210766,2018
+- [Republic%20versus%20Tobora-Tionglico](Cases/Republic%20versus%20Tobora-Tionglico.md),GR218630,2018
+- [Espina-Dan%20versus%20Dan](Cases/Espina-Dan%20versus%20Dan.md),GR209031,2018
+- [Republic%20versus%20Javier](Cases/Republic%20versus%20Javier.md),GR210518,2018
+- [Republic%20versus%20Mola%20Cruz](Cases/Republic%20versus%20Mola%20Cruz.md),GR236629,2018
+- [Carlos%20versus%20Tolentino](Cases/Carlos%20versus%20Tolentino.md),GR234533,2018
+- [Masbate%20versus%20Relucio](Cases/Masbate%20versus%20Relucio.md),GR235498,2018
+- [Republic%20versus%20Tipay](Cases/Republic%20versus%20Tipay.md),GR209527,2018
+- [Public%20School%20Teachers%20versus%20Garcia](Cases/Public%20School%20Teachers%20versus%20Garcia.md),GR192708,2017
+- [Phil%20International%20Trading%20versus%20CoA](Cases/Phil%20International%20Trading%20versus%20CoA.md),GR205837,2017
+- [Umali%20versus%20The%20Judicial%20and%20Bar%20Council](Cases/Umali%20versus%20The%20Judicial%20and%20Bar%20Council.md),GR228628,2017
+- [Dee%20versus%20Harvest%20All%20Investment%20Limited](Cases/Dee%20versus%20Harvest%20All%20Investment%20Limited.md),GR224834,2017
+- [St%20Martin%20versus%20LWV%20Construction](Cases/St%20Martin%20versus%20LWV%20Construction.md),GR217426,2017
+- [Carbonell%20versus%20Metropolitan%20Bank](Cases/Carbonell%20versus%20Metropolitan%20Bank.md),GR178467,2017
+- [Estate%20of%20Poblador%20Jr%20versus%20Manzano](Cases/Estate%20of%20Poblador%20Jr%20versus%20Manzano.md),GR192391,2017
+- [Domingo%20versus%20Singson](Cases/Domingo%20versus%20Singson.md),GR203287,2017
+- [Tilar%20versus%20Tilar](Cases/Tilar%20versus%20Tilar.md),GR214529,2017
+- [Castillo%20versus%20Republic](Cases/Castillo%20versus%20Republic.md),GR214064,2017
+- [Del%20Rosario%20versus%20Del%20Rosario](Cases/Del%20Rosario%20versus%20Del%20Rosario.md),GR222541,2017
+- [Garlet%20versus%20Garlet](Cases/Garlet%20versus%20Garlet.md),GR193544,2017
+- [Lonton-Cruz%20versus%20Cruz](Cases/Lonton-Cruz%20versus%20Cruz.md),GR201988,2017
+- [Bakunawa%20III%20versus%20Bakunawa](Cases/Bakunawa%20III%20versus%20Bakunawa.md),GR217993,2017
+- [Orsolino%20versus%20Frany](Cases/Orsolino%20versus%20Frany.md),GR193887,2017
+- [Borlongan%20versus%20Banco%20de%20Oro](Cases/Borlongan%20versus%20Banco%20de%20Oro.md),GR217617%20and%20218540,2017
+- [Delos%20Santos%20versus%20Abejon](Cases/Delos%20Santos%20versus%20Abejon.md),GR215820,2017
+- [Borlongon%20versus%20Banco%20De%20Oro](Cases/Borlongon%20versus%20Banco%20De%20Oro.md),GR217617,2017
+- [Boston%20Equity%20versus%20Del%20Rosario](Cases/Boston%20Equity%20versus%20Del%20Rosario.md),GR193228,2017
+- [Dadis%20versus%20De%20Guzman](Cases/Dadis%20versus%20De%20Guzman.md),GR206008,2017
+- [Ko%20versus%20Aramburo](Cases/Ko%20versus%20Aramburo.md),GR190995,2017
+- [Alejo%20versus%20Cortez](Cases/Alejo%20versus%20Cortez.md),GR206114,2017
+- [Uy%20versus%20Fernandez](Cases/Uy%20versus%20Fernandez.md),GR200612,2017
+- [Heirs%20of%20Roldan%20versus%20Heirs%20of%20Roldan](Cases/Heirs%20of%20Roldan%20versus%20Heirs%20of%20Roldan.md),GR202578,2017
+- [Tinitigan%20versus%20Republic](Cases/Tinitigan%20versus%20Republic.md),GR222095,2017
+- [Recto%20versus%20Trocino](Cases/Recto%20versus%20Trocino.md),AMRTJ-17-2508,2017
+- [Chua%20versus%20Republic](Cases/Chua%20versus%20Republic.md),GR231998,2017
+- [Castillo%20versus%20De%20Leon%20Castillo](Cases/Castillo%20versus%20De%20Leon%20Castillo.md),GR189607,2016
+- [Mabugay-Otamias%20versus%20Republic](Cases/Mabugay-Otamias%20versus%20Republic.md),GR189516,2016
+- [IPAMS%20versus%20De%20Vera](Cases/IPAMS%20versus%20De%20Vera.md),GR205703,2016
+- [The%20Orchard%20Golf%20versus%20Yu](Cases/The%20Orchard%20Golf%20versus%20Yu.md),GR191033,2016
+- [Calimag%20versus%20Heirs%20of%20Macapaz](Cases/Calimag%20versus%20Heirs%20of%20Macapaz.md),GR191936,2016
+- [Kho%20versus%20Republic](Cases/Kho%20versus%20Republic.md),GR187462,2016
+- [Diaz-Salgado%20versus%20Anson](Cases/Diaz-Salgado%20versus%20Anson.md),GR204494,2016
+- [Medina%20versus%20Michiyuki%20Koike](Cases/Medina%20versus%20Michiyuki%20Koike.md),GR215723,2016
+- [Republic%20versus%20Tampus](Cases/Republic%20versus%20Tampus.md),GR214243,2016
+- [Republic%20versus%20Sareñogon%20Jr](Cases/Republic%20versus%20Sareñogon%20Jr.md),GR199194,2016
+- [Castillo%20versus%20De%20Leon%20Castillo](Cases/Castillo%20versus%20De%20Leon%20Castillo.md),GR189607,2016
+- [Vitangcol%20versus%20People](Cases/Vitangcol%20versus%20People.md),GR207406,2016
+- [Matudan%20versus%20Republic](Cases/Matudan%20versus%20Republic.md),GR203284,2016
+- [Republic%20versus%20Romero%20II](Cases/Republic%20versus%20Romero%20II.md),GR209180,2016
+- [Yu%20versus%20Lim-Yu](Cases/Yu%20versus%20Lim-Yu.md),GR200072,2016
+- [Onstott%20versus%20Upper%20Tagpos](Cases/Onstott%20versus%20Upper%20Tagpos.md),GR221047,2016
+- [Domingo%20versus%20Spouses%20Molina](Cases/Domingo%20versus%20Spouses%20Molina.md),GR200274,2016
+- [Caravan%20Travel%20and%20Tours%20versus%20Abejar](Cases/Caravan%20Travel%20and%20Tours%20versus%20Abejar.md),GR170631,2016
+- [St%20Luke's%20College%20versus%20Perez](Cases/St%20Luke's%20College%20versus%20Perez.md),GR222740,2016
+- [Gan%20versus%20Republic](Cases/Gan%20versus%20Republic.md),GR207147,2016
+- [Philippine%20Commercial%20versus%20Gomez](Cases/Philippine%20Commercial%20versus%20Gomez.md),GR199601,2015
+- [Santiago%20versus%20People](Cases/Santiago%20versus%20People.md),GR200233,2015
+- [Social%20Security%20Commission%20versus%20Azote](Cases/Social%20Security%20Commission%20versus%20Azote.md),GR209741,2015
+- [Republic%20versus%20Orcelino-Villanueva](Cases/Republic%20versus%20Orcelino-Villanueva.md),GR210929,2015
+- [Kalaw%20versus%20Fernandez](Cases/Kalaw%20versus%20Fernandez.md),GR166357,2015
+- [Viñas%20versus%20Parel-Vi√±as](Cases/Viñas%20versus%20Parel-Vi√±as.md),GR208790,2015
+- [Nobleza%20versus%20Nuega](Cases/Nobleza%20versus%20Nuega.md),GR193038,2015
+- [Ocampo%20versus%20Ocampo](Cases/Ocampo%20versus%20Ocampo.md),GR198908,2015
+- [Banguis-Tambuyat%20versus%20Balcom-Tambuyat](Cases/Banguis-Tambuyat%20versus%20Balcom-Tambuyat.md),GR202805,2015
+- [Eulogio%20versus%20Bell%20Sr](Cases/Eulogio%20versus%20Bell%20Sr.md),GR186322,2015
+- [Aguilar%20versus%20Siasat](Cases/Aguilar%20versus%20Siasat.md),GR200169,2015
+- [Geronimo%20versus%20Santos](Cases/Geronimo%20versus%20Santos.md),GR197099,2015
+- [Fortuna%20versus%20Republic](Cases/Fortuna%20versus%20Republic.md),GR173423,2014
+- [Del%20Socorro%20versus%20Brinkman%20Van%20Wilsem](Cases/Del%20Socorro%20versus%20Brinkman%20Van%20Wilsem.md),GR193707,2014
+- [Nedlloyd%20Lijnen%20versus%20Glow%20Laks](Cases/Nedlloyd%20Lijnen%20versus%20Glow%20Laks.md),GR156330,2014
+- [Gonzalo%20versus%20Tarnate%20Jr](Cases/Gonzalo%20versus%20Tarnate%20Jr.md),GR160600,2014
+- [Willaware%20Products%20versus%20Jesichris](Cases/Willaware%20Products%20versus%20Jesichris.md),GR195549,2014
+- [Daluraya%20versus%20Oliva](Cases/Daluraya%20versus%20Oliva.md),GR210148,2014
+- [People%20versus%20Go](Cases/People%20versus%20Go.md),GR168539,2014
+- [Lavadia%20versus%20Heirs%20of%20Luna](Cases/Lavadia%20versus%20Heirs%20of%20Luna.md),GR171914,2014
+- [Santos%20versus%20Santos](Cases/Santos%20versus%20Santos.md),GR187061,2014
+- [Republic%20versus%20De%20Gracia](Cases/Republic%20versus%20De%20Gracia.md),GR171557,2014
+- [Republic%20versus%20Olaybar](Cases/Republic%20versus%20Olaybar.md),GR189538,2014
+- [Valino%20versus%20Adriano](Cases/Valino%20versus%20Adriano.md),GR182894,2014
+- [Barrido%20versus%20Nonato](Cases/Barrido%20versus%20Nonato.md),GR176492,2014
+- [Castro%20versus%20Gregorio](Cases/Castro%20versus%20Gregorio.md),GR188801,2014
+- [Bartolome%20versus%20Social%20Security%20System](Cases/Bartolome%20versus%20Social%20Security%20System.md),GR192531,2014
+- [Imbong%20versus%20Ochoa%20Jr](Cases/Imbong%20versus%20Ochoa%20Jr.md),GR204819,2014
+- [Grande%20versus%20Antonio](Cases/Grande%20versus%20Antonio.md),GR206248,2014
+- [Maralita%20versus%20Military%20Shrine](Cases/Maralita%20versus%20Military%20Shrine.md),GR187587,2013
+- [Dacudao%20versus%20Secretary%20of%20Justice](Cases/Dacudao%20versus%20Secretary%20of%20Justice.md),GR188056,2013
+- [Belgica%20versus%20Executive%20Secretary%20Ochoa](Cases/Belgica%20versus%20Executive%20Secretary%20Ochoa.md),GR208566,2013
+- [Ardiente%20versus%20Pastorfide](Cases/Ardiente%20versus%20Pastorfide.md),GR161921,2013
+- [Manila%20Electric%20Company%20versus%20Castillo](Cases/Manila%20Electric%20Company%20versus%20Castillo.md),GR182976,2013
+- [People%20versus%20Agacer](Cases/People%20versus%20Agacer.md),GR177751,2013
+- [Capili%20versus%20People](Cases/Capili%20versus%20People.md),GR183805,2013
+- [San%20Miguel%20Proeprties%20versus%20Perez](Cases/San%20Miguel%20Proeprties%20versus%20Perez.md),GR166836,2013
+- [Consing%20Jr%20versus%20People](Cases/Consing%20Jr%20versus%20People.md),GR161075,2013
+- [Republic%20versus%20Batuigas](Cases/Republic%20versus%20Batuigas.md),GR183110,2013
+- [Republic%20versus%20Albios](Cases/Republic%20versus%20Albios.md),GR198780,2013
+- [Abbas%20versus%20Abbas](Cases/Abbas%20versus%20Abbas.md),GR183896,2013
+- [Go-Bangayan%20versus%20Bangayan%20Jr](Cases/Go-Bangayan%20versus%20Bangayan%20Jr.md),GR201061,2013
+- [Republic%20versus%20Narceda](Cases/Republic%20versus%20Narceda.md),GR182760,2013
+- [Republic%20versus%20Cantor](Cases/Republic%20versus%20Cantor.md),GR184621,2013
+- [Republic%20versus%20Encelan](Cases/Republic%20versus%20Encelan.md),GR170022,2013
+- [Garcia-Quiazon%20versus%20Belen](Cases/Garcia-Quiazon%20versus%20Belen.md),GR189121,2013
+- [Minoru%20Fujiki%20versus%20Marinay](Cases/Minoru%20Fujiki%20versus%20Marinay.md),GR196049,2013
+- [Lim-Lua%20versus%20Lua](Cases/Lim-Lua%20versus%20Lua.md),GR175279-80%20,2013
+- [Busuego%20versus%20Office%20of%20the%20Ombudsman](Cases/Busuego%20versus%20Office%20of%20the%20Ombudsman.md),GR196842,2013
+- [Tan%20versus%20Andrade](Cases/Tan%20versus%20Andrade.md),GR171904,2013
+- [Salas%20Jr%20versus%20Eden%20Villena%20Aguil](Cases/Salas%20Jr%20versus%20Eden%20Villena%20Aguil.md),GR202370,2013
+- [Ventura%20Jr%20versus%20Abuda](Cases/Ventura%20Jr%20versus%20Abuda.md),GR202932,2013
+- [Salas%20versus%20Matusalem](Cases/Salas%20versus%20Matusalem.md),GR180284,2013
+- [Yasuo%20Iwasawa%20versus%20Gangan](Cases/Yasuo%20Iwasawa%20versus%20Gangan.md),GR204169,2013
+- [Republic%20versus%20Lugsanay%20Uy](Cases/Republic%20versus%20Lugsanay%20Uy.md),GR198010,2013
+- [FF%20Cruz%20and%20Co%20versus%20HR%20Construction](Cases/FF%20Cruz%20and%20Co%20versus%20HR%20Construction.md),GR187521,2012
+- [Elegir%20versus%20Philippine%20Airlines](Cases/Elegir%20versus%20Philippine%20Airlines.md),GR181995,2012
+- [Beumer%20versus%20Amores](Cases/Beumer%20versus%20Amores.md),GR195670,2012
+- [Padalhin%20versus%20Lavina](Cases/Padalhin%20versus%20Lavina.md),GR183026,2012
+- [Montañez%20versus%20Cipriano](Cases/Montañez%20versus%20Cipriano.md),GR181089,2012
+- [De%20Catalan%20versus%20Catalan-Lee](Cases/De%20Catalan%20versus%20Catalan-Lee.md),GR183622,2012
+- [Republic%20versus%20Granada](Cases/Republic%20versus%20Granada.md),GR187512,2012
+- [Republic%20versus%20Court%20of%20Appeals](Cases/Republic%20versus%20Court%20of%20Appeals.md),GR159594,2012
+- [Mendoza%20versus%20Republic](Cases/Mendoza%20versus%20Republic.md),GR157649,2012
+- [Dela%20Peña%20versus%20Avila](Cases/Dela%20Peña%20versus%20Avila.md),GR187490,2012
+- [Pana%20versus%20Heirs%20of%20Juanite%20Sr](Cases/Pana%20versus%20Heirs%20of%20Juanite%20Sr.md),GR164201,2012
+- [Quiao%20versus%20Quiao](Cases/Quiao%20versus%20Quiao.md),GR176556,2012
+- [Perla%20versus%20Baring](Cases/Perla%20versus%20Baring.md),GR172471,2012
+- [Gotardo%20versus%20Buling](Cases/Gotardo%20versus%20Buling.md),GR165166,2012
+- [Pimentel%20versus%20Senate%20Committee](Cases/Pimentel%20versus%20Senate%20Committee.md),GR187714,2011
+- [Yambao%20versus%20Republic%20of%20the%20Philippines](Cases/Yambao%20versus%20Republic%20of%20the%20Philippines.md),GR184063,2011
+- [Republic%20versus%20Galang](Cases/Republic%20versus%20Galang.md),GR168335,2011
+- [Ochosa%20versus%20Alano](Cases/Ochosa%20versus%20Alano.md),GR167459,2011
+- [Yu%20versus%20Reyes-Carpio](Cases/Yu%20versus%20Reyes-Carpio.md),GR189207,2011
+- [Juliajvo-Llave%20versus%20Republic](Cases/Juliajvo-Llave%20versus%20Republic.md),GR169766,2011
+- [Diño%20versus%20Diño](Cases/Diño%20versus%20Diño.md),GR178044,2011
+- [Flores%20versus%20Spouses%20Lindo%20Jr](Cases/Flores%20versus%20Spouses%20Lindo%20Jr.md),GR183984,2011
+- [Heirs%20of%20Go%20Sr%20versus%20Servacio](Cases/Heirs%20of%20Go%20Sr%20versus%20Servacio.md),GR157537,2011
+- [Ros%20versus%20Philippine%20National%20Bank](Cases/Ros%20versus%20Philippine%20National%20Bank.md),GR170166,2011
+- [Diño%20versus%20Diño](Cases/Diño%20versus%20Diño.md),GR178044,2011
+- [Lucas%20versus%20Lucas](Cases/Lucas%20versus%20Lucas.md),GR190710,2011
+- [Aquinas%20School%20versus%20Inton](Cases/Aquinas%20School%20versus%20Inton.md),GR184202,2011
+- [Republic%20versus%20Coseteng-Magpayo](Cases/Republic%20versus%20Coseteng-Magpayo.md),GR189476,2011
+- [NPC%20versus%20Pinatubo%20Commercial](Cases/NPC%20versus%20Pinatubo%20Commercial.md),GR176006,2010
+- [Go%20versus%20Cordero](Cases/Go%20versus%20Cordero.md),GR164703,2010
+- [Villanueva%20versus%20Rosqueta](Cases/Villanueva%20versus%20Rosqueta.md),GR180764,2010
+- [Shinryo%20Philippines%20Company%20versus%20RRN](Cases/Shinryo%20Philippines%20Company%20versus%20RRN.md),GR172525,2010
+- [Calang%20versus%20People](Cases/Calang%20versus%20People.md),GR190696,2010
+- [Pimentel%20v%20Pimentel](Cases/Pimentel%20v%20Pimentel.md),GR172060,2010
+- [Corpuz%20versus%20Sto%20Tomas](Cases/Corpuz%20versus%20Sto%20Tomas.md),GR186571,2010
+- [Agraviador%20versus%20Agraviador](Cases/Agraviador%20versus%20Agraviador.md),GR170729,2010
+- [Camacho-Reyes%20versus%20Reyes](Cases/Camacho-Reyes%20versus%20Reyes.md),GR185286,2010
+- [Toring%20versus%20Toring](Cases/Toring%20versus%20Toring.md),GR165321,2010
+- [Suazo%20versus%20Suazo](Cases/Suazo%20versus%20Suazo.md),GR164493,2010
+- [Ablaza%20versus%20Republic](Cases/Ablaza%20versus%20Republic.md),GR158298,2010
+- [Siochi%20versus%20Gozon](Cases/Siochi%20versus%20Gozon.md),GR169900%20and%20%20169977,2010
+- [Imani%20versus%20Metropolitan%20Bank%20and%20Trust](Cases/Imani%20versus%20Metropolitan%20Bank%20and%20Trust.md),GR187023,2010
+- [Titan%20Construction%20versus%20David](Cases/Titan%20Construction%20versus%20David.md),GR169548,2010
+- [Aggabao%20versus%20Parulan](Cases/Aggabao%20versus%20Parulan.md),GR165803,2010
+- [Fuentes%20versus%20Roca](Cases/Fuentes%20versus%20Roca.md),GR178902,2010
+- [Nepomuceno%20versus%20Lopez](Cases/Nepomuceno%20versus%20Lopez.md),GR181258,2010
+- [Dacasin%20versus%20Dacasin](Cases/Dacasin%20versus%20Dacasin.md),GR168785,2010
+- [St%20Joseph's%20College%20versus%20Miranda](Cases/St%20Joseph's%20College%20versus%20Miranda.md),GR182353,2010
+- [Remo%20versus%20Secretary%20of%20Foreign%20Affairs](Cases/Remo%20versus%20Secretary%20of%20Foreign%20Affairs.md),GR169202,2010
+- [Baldos%20versus%20Court%20of%20Appeals](Cases/Baldos%20versus%20Court%20of%20Appeals.md),GR170645,2010
+- [Gamboa-Hirsch%20versus%20Court%20of%20Appeals](Cases/Gamboa-Hirsch%20versus%20Court%20of%20Appeals.md),GR174485,2007
