@@ -1,4 +1,4 @@
-In essence, this dispute is about the custody of a minor child, Winston, contesting the decision to grant custody to the biological father based on procedural grounds and concerns about the father's fitness.
+In essence, this dispute is about the custody of a minor child, Winston, and the contested decision to grant custody to the biological father based on procedural grounds and concerns about the father's fitness.
 
 
 Winston's mother, Catherine, lived with Stolk in the United States but died shortly after giving birth to Winston in the Philippines. Winston was then left in the care of the Spouses Gabun. Stolk filed a petition for habeas corpus, seeking custody of Winston, supported by a DNA test confirming his paternity. The RTC granted custody to the Stolk, which the Spouses Gabun contested. Arguing that Stolk was unfit due to his criminal record and other concerns.
