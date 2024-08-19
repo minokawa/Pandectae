@@ -1,0 +1,10 @@
+- Article 1700. The relation between capita] and labor are not merely contractual. They are so impressed with public interest that labor contracts must yield to the common good. Therefore, such contracts are subject to the special laws on Jabor unions, collective bargaining, strikes and lockouts, closed shop, wages, working conditions, hours of labor and similar subjects. 
+- Article 1701. Neither capital nor labor shall act oppressively against the other, or impair the interest or convenience of the public. 
+- Article 1702. In case of doubt, all labor legislation and all labor contracts shall be construed in favor of the safety and decent living for the laborer. 
+- Article 1703. No contract which practically amounts to involuntary servitude, under any guise whatsoever, shall be valid. 
+- Article 1704. In collective bargaining, the labor union or members of the board or committee signing the contract shall be hable for non-fulfillment thereof. 
+- Article 1705. The laborer’s wages shall be paid in legal currency. 
+- Article 1706. Withholding of the wages, except for a debt due, shall not be made by the employer. 
+- Article 1707. The laborer’s wages shall be a lien on the goods manufactured or the work done. Article 1708. The laborer’s wages shall not be subject to execution or attachment, except for debts incurred for food, shelter, clothing and medical attendance. 
+- Article 1709. The employer shall neither seize nor retain any tool or other articles belonging to the laborer. 
+- Article 1710.Dismissalof laborersshallbe subject to the supervision of the Government, under special laws.
