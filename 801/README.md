@@ -113,13 +113,13 @@ Labor Laws and Social Legislation
 > - [Distinguished from Estafa](Definitions/Distinguished%20from%20Estafa.md)
 
 #### Liability of local recruitment agency and foreign employer
-> - Solidary liability
-> - Theory of imputed knowledge
-> - Termination of contract of migrant worker
+> - [Solidary liability](Definitions/Solidary%20liability.md)
+> - [Theory of imputed knowledge](Definitions/Theory%20of%20imputed%20knowledge.md)
+> - [Termination of contract of migrant worker](Definitions/Termination%20of%20contract%20of%20migrant%20worker.md)
 
 #### Employment of non-resident aliens
-> - Migrant Workers Act as amended RA 8042 as amended by 10022
-> - Penalties
+> - [Migrant Workers Act as amended RA 8042 as amended by 10022](Definitions/Migrant%20Workers%20Act%20as%20amended%20RA%208042%20as%20amended%20by%2010022.md)
+
 
 #### Cases
 >-   [People v. Sagun](Cases/People%20v.%20Sagun.md) GR119076 2002
@@ -251,23 +251,23 @@ Labor Laws and Social Legislation
 > - [Security guards](Definitions/Security%20guards.md)
 
 ### SOCIAL LEGISLATION
-- [Health, Safety and Social Welfare Benefits Arts. 162-217](Definitions/Health,%20Safety%20and%20Social%20Welfare%20Benefits%20Arts.%20162-217.md)
-- [Social Security System Law](Definitions/Social%20Security%20System%20Law.md)
-- [Coverage and exclusions](Definitions/Coverage%20and%20exclusions.md)
-- [Dependents and beneficiaries](Definitions/Dependents%20and%20beneficiaries.md)
-- [Benefits](Definitions/Benefits.md)
-- [Government Service Insurance System Law](Definitions/Government%20Service%20Insurance%20System%20Law.md)
-- [Coverage and exclusions](Definitions/Coverage%20and%20exclusions.md)
-- [Dependents and beneficiaries](Definitions/Dependents%20and%20beneficiaries.md)
-- [Limited Portability Law](Definitions/Limited%20Portability%20Law.md)
-- [Disability and death benefits](Definitions/Disability%20and%20death%20benefits.md)
-- [Employees Compensation and State Insurance Fund](Definitions/Employees%20Compensation%20and%20State%20Insurance%20Fund.md)
-- [Philippine Overseas Employment Administration-Standard Employment Contract](Definitions/Philippine%20Overseas%20Employment%20Administration-Standard%20Employment%20Contract.md)
-- [Solo Parents LEGISLATION](Definitions/Solo%20Parents%20LEGISLATION.md)
-- [Universal Health Care Policy and Coverage](Definitions/Universal%20Health%20Care%20Policy%20and%20Coverage.md) 
-- [National Health Insurance Program](Definitions/National%20Health%20Insurance%20Program.md)
-- [Agrarian Reform Law](Definitions/Agrarian%20Reform%20Law.md)
-- [Telecommuting Act RA 11165](Definitions/Telecommuting%20Act%20RA%2011165.md)
+> - [Health, Safety and Social Welfare Benefits Arts. 162-217](Definitions/Health,%20Safety%20and%20Social%20Welfare%20Benefits%20Arts.%20162-217.md)
+> - [Social Security System Law](Definitions/Social%20Security%20System%20Law.md)
+> - [Coverage and exclusions](Definitions/Coverage%20and%20exclusions.md)
+> - [Dependents and beneficiaries](Definitions/Dependents%20and%20beneficiaries.md)
+> - [Benefits](Definitions/Benefits.md)
+> - [Government Service Insurance System Law](Definitions/Government%20Service%20Insurance%20System%20Law.md)
+> - [Coverage and exclusions](Definitions/Coverage%20and%20exclusions.md)
+> - [Dependents and beneficiaries](Definitions/Dependents%20and%20beneficiaries.md)
+> - [Limited Portability Law](Definitions/Limited%20Portability%20Law.md)
+> - [Disability and death benefits](Definitions/Disability%20and%20death%20benefits.md)
+> - [Employees Compensation and State Insurance Fund](Definitions/Employees%20Compensation%20and%20State%20Insurance%20Fund.md)
+> - [Philippine Overseas Employment Administration-Standard Employment Contract](Definitions/Philippine%20Overseas%20Employment%20Administration-Standard%20Employment%20Contract.md)
+> - [Solo Parents LEGISLATION](Definitions/Solo%20Parents%20LEGISLATION.md)
+> - [Universal Health Care Policy and Coverage](Definitions/Universal%20Health%20Care%20Policy%20and%20Coverage.md) 
+> - [National Health Insurance Program](Definitions/National%20Health%20Insurance%20Program.md)
+> - [Agrarian Reform Law](Definitions/Agrarian%20Reform%20Law.md)
+> - [Telecommuting Act RA 11165](Definitions/Telecommuting%20Act%20RA%2011165.md)
 
 
 
@@ -288,20 +288,20 @@ Labor Laws and Social Legislation
 >-  [NUWHRAIN-APL-IUF Dusit Hotel v. Court of Appeals](Cases/NUWHRAIN-APL-IUF%20Dusit%20Hotel%20Nikko%20Chapter%20v.%20Court%20of%20Appeals.md), GR163942, November 11, 2008
 
 ### 12 LABOR RELATIONS
-- [Labor Organizations - Registration and Cancellation, Rights](Definitions/Labor%20Organizations%20-%20Registration%20and%20Cancellation,%20Rights.md)
-- [Unfair Labor Practices](Definitions/Unfair%20Labor%20Practices.md)
-- [Collective Bargaining and Administration of Agreement](Definitions/Collective%20Bargaining%20and%20Administration%20of%20Agreement.md)
-- [Grievance Machinery and Voluntary Arbitration](Definitions/Grievance%20Machinery%20and%20Voluntary%20Arbitration.md)
-- [Strikes and Lockouts](Definitions/Strikes%20and%20Lockouts.md)
+> - [Labor Organizations - Registration and Cancellation, Rights](Definitions/Labor%20Organizations%20-%20Registration%20and%20Cancellation,%20Rights.md)
+> - [Unfair Labor Practices](Definitions/Unfair%20Labor%20Practices.md)
+> - [Collective Bargaining and Administration of Agreement](Definitions/Collective%20Bargaining%20and%20Administration%20of%20Agreement.md)
+> - [Grievance Machinery and Voluntary Arbitration](Definitions/Grievance%20Machinery%20and%20Voluntary%20Arbitration.md)
+> - [Strikes and Lockouts](Definitions/Strikes%20and%20Lockouts.md)
 
 ### 13 Jurisdiction and Remedies
-- [Labor Arbiter](Definitions/Labor%20Arbiter.md)
-- [The National Labor Relations Commission NLRC](Definitions/The%20National%20Labor%20Relations%20Commission%20NLRC.md)
-- [Court of Appeals](Definitions/Court%20of%20Appeals.md)
-- [Supreme Court](../Active-602-603-CIVPRO/PRINCIPLES%20and%20CASES/Supreme%20Court.md)
-- [Bureau of Labor Relations](Definitions/Bureau%20of%20Labor%20Relations.md)
-- [National Conciliation and Mediation](Definitions/National%20Conciliation%20and%20Mediation.md)[Board](Board)
-- [DOLE Regional Directors](Definitions/DOLE%20Regional%20Directors.md)
-- [DOLE Secretary](Definitions/DOLE%20Secretary.md)
-- [Voluntary Arbitrator](../Active-602-603-CIVPRO/DEFINITIONS/Voluntary%20Arbitrator.md)
-- [Prescription of Actions](Definitions/Prescription%20of%20Actions.md)
+> - [Labor Arbiter](Definitions/Labor%20Arbiter.md)
+> - [The National Labor Relations Commission NLRC](Definitions/The%20National%20Labor%20Relations%20Commission%20NLRC.md)
+> - [Court of Appeals](Definitions/Court%20of%20Appeals.md)
+> - [Supreme Court](../Active-602-603-CIVPRO/PRINCIPLES%20and%20CASES/Supreme%20Court.md)
+> - [Bureau of Labor Relations](Definitions/Bureau%20of%20Labor%20Relations.md)
+> - [National Conciliation and Mediation](Definitions/National%20Conciliation%20and%20Mediation.md)[Board](Board)
+> - [DOLE Regional Directors](Definitions/DOLE%20Regional%20Directors.md)
+> - [DOLE Secretary](Definitions/DOLE%20Secretary.md)
+> - [Voluntary Arbitrator](../Active-602-603-CIVPRO/DEFINITIONS/Voluntary%20Arbitrator.md)
+> - [Prescription of Actions](Definitions/Prescription%20of%20Actions.md)
