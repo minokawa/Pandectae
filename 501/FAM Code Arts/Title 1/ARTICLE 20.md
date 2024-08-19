@@ -1,0 +1,1 @@
+**ARTICLE** 20. The license shall be valid in any part of the Philippines for a period of one hundred twenty days from the date of issue, and shall be deemed automatically cancelled at the expiration of the said period if the contracting parties have not made use of it. The expiry date shall be stamped in bold characters on the face of every license issued. 

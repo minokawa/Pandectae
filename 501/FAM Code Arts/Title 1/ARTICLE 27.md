@@ -1,0 +1,1 @@
+**ARTICLE** 27. In case either or both of the contracting parties are at the point of death, the marriage may be solemnized without necessity of a marriage license and shall remain valid even if the ailing party subsequently survives.

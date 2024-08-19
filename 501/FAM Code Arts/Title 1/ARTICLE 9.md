@@ -1,0 +1,1 @@
+**ARTICLE** 9. A marriage license shall be issued by the local civil registrar of the city or municipality where either contracting party habitually resides, except in marriages where no license is required in accordance with Chapter 2 of this Title 

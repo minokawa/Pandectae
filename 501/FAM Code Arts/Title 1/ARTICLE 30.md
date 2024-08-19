@@ -1,0 +1,1 @@
+**ARTICLE** 30. The original of the affidavit required in the last preceding article, together with the legible copy of the marriage contract, shall be sent by the person solemnizing the marriage to the local civil registrar of the municipality where it was performed within the period of thirty days after the performance of the marriage. 

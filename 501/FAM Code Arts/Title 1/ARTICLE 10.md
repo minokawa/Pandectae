@@ -1,0 +1,1 @@
+**ARTICLE** 10. Marriages between Filipino citizens abroad may be solemnized by a consul-general, consul or vice-consul of the Republic of the Philippines. The issuance of the marriage license and the duties of the local civil registrar and of the solemnizing officer with regard to the celebration of marriage shall be performed by said consular official. 

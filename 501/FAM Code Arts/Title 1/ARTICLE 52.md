@@ -1,0 +1,1 @@
+**ARTICLE** 52. The judgment of annulment or of absolute nullity of the marriage, the partition and distribution of the properties of the spouses and the delivery of the children's presumptive legitimes shall be recorded in the appropriate civil registry and registries of property; otherwise, the same shall not affect third persons. (n)

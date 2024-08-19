@@ -1,0 +1,1 @@
+**ARTICLE** 33. Marriages among Muslims or among members of the ethnic cultural communities may be performed validly without the necessity of marriage license, provided they are solemnized in accordance with their customs, rites or practices.

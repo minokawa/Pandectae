@@ -1,0 +1,1 @@
+**ARTICLE** 44. If both spouses of the subsequent marriage acted in bad faith, said marriage shall be void ab initio and all donations by reason of marriage and testamentary dispositions made by one in favor of the other are revoked by operation of law. (n)

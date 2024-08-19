@@ -1,0 +1,3 @@
+**ARTICLE** 48. In all cases of annulment or declaration of absolute nullity of marriage, the Court shall order the prosecuting attorney or fiscal assigned to it to appear on behalf of the State to take steps to prevent collusion between the parties and to take care that evidence is not fabricated or suppressed.
+
+In the cases referred to in the preceding paragraph, no judgment shall be based upon a stipulation of facts or confession of judgment. (88a)

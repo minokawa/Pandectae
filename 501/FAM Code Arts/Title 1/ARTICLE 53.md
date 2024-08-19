@@ -1,0 +1,1 @@
+**ARTICLE** 53. Either of the former spouses may marry again after compliance with the requirements of the immediately preceding Article; otherwise, the subsequent marriage shall be null and void.

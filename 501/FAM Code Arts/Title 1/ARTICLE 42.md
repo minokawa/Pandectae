@@ -1,0 +1,3 @@
+**ARTICLE** 42. The subsequent marriage referred to in the preceding Article shall be automatically terminated by the recording of the affidavit of reappearance of the absent spouse, unless there is a judgment annulling the previous marriage or declaring it void ab initio.
+
+A sworn statement of the fact and circumstances of reappearance shall be recorded in the civil registry of the residence of the parties to the subsequent marriage at the instance of any interested person, with due notice to the spouses of the subsequent marriage and without prejudice to the fact of reappearance being judicially determined in case such fact is disputed. (n)

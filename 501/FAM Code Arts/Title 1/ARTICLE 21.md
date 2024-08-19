@@ -1,0 +1,3 @@
+**ARTICLE** 21. When either or both of the contracting parties are citizens of a foreign country, it shall be necessary for them before a marriage license can be obtained, to submit a certificate of legal capacity to contract marriage, issued by their respective diplomatic or consular officials.
+
+Stateless persons or refugees from other countries shall, in lieu of the certificate of legal capacity herein required, submit an affidavit stating the circumstances showing such capacity to contract marriage.

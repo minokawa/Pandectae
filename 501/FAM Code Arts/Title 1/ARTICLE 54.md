@@ -1,0 +1,1 @@
+**ARTICLE** 54. Children conceived or born before the judgment of annulment or absolute nullity of the marriage under Article 36 has become final and executory shall be considered legitimate. Children conceived or born of the subsequent marriage under Article 53 shall likewise be legitimate.

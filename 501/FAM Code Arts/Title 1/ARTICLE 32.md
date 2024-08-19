@@ -1,0 +1,1 @@
+**ARTICLE** 32. A military commander of a unit, who is a commissioned officer, shall likewise have authority to solemnize marriages in articulo mortis between persons within the zone of military operation, whether members of the armed forces or civilians. 

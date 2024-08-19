@@ -1,0 +1,2 @@
+Marriage is a special contract of permanent union between a man and a woman entered into in accordance with law for the establishment of conjugal and family life. It is the foundation of the family and an inviolable social institution whose nature, consequences, and incidents are governed by law and not subject to stipulation, except that marriage settlements may fix the property relations during the marriage within the limits provided by this Code.
+

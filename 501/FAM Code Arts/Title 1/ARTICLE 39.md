@@ -1,0 +1,1 @@
+**ARTICLE** 39. The action or defense for the declaration of absolute nullity of a marriage shall not prescribe. (as amended by Executive Order 227 s. 1987, RA 8533) (n)

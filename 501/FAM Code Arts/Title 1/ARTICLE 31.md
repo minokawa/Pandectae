@@ -1,0 +1,1 @@
+**ARTICLE** 31. A marriage in articulo mortis between passengers or crew members may also be solemnized by a ship captain or by an airplane pilot not only while the ship is at sea or the plane is in flight, but also during stopovers at ports of call. 

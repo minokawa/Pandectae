@@ -1,0 +1,3 @@
+**ARTICLE** 13. In case either of the contracting parties has been previously married, the applicant shall be required to furnish, instead of the birth or baptismal certificate required in the last preceding article, the death certificate of the deceased spouse or the judicial decree of the absolute divorce, or the judicial decree of annulment or declaration of nullity of his or her previous marriage.
+
+In case the death certificate cannot be secured, the party shall make an affidavit setting forth this circumstance and his or her actual civil status and the name and date of death of the deceased spouse. 

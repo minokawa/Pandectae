@@ -1,0 +1,1 @@
+**ARTICLE** 36. A marriage contracted by any party who, at the time of the celebration, was psychologically incapacitated to comply with the essential marital obligations of marriage, shall likewise be void even if such incapacity becomes manifest only after its solemnization. (As amended by Executive Order 227)

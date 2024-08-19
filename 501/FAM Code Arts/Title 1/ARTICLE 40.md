@@ -1,0 +1,1 @@
+**ARTICLE** 40. The absolute nullity of a previous marriage may be invoked for purposes of remarriage on the basis solely of a final judgment declaring such previous marriage void. (n).

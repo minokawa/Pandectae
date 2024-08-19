@@ -1,0 +1,1 @@
+**ARTICLE** 24. It shall be the duty of the local civil registrar to prepare the documents required by this Title, and to administer oaths to all interested parties without any charge in both cases. The documents and affidavits filed in connection with applications for marriage licenses shall be exempt from documentary stamp tax.

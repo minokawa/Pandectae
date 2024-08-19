@@ -1,0 +1,1 @@
+**ARTICLE** 28. If the residence of either party is so located that there is no means of transportation to enable such party to appear personally before the local civil registrar, the marriage may be solemnized without necessity of a marriage license.

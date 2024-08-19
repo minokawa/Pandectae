@@ -1,0 +1,1 @@
+**ARTICLE** 5. Any male or female of the age of eighteen years or upwards not under any of the impediments mentioned in Articles 37 and 38, may contract marriage. 

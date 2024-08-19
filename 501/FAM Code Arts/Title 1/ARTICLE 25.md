@@ -1,0 +1,1 @@
+**ARTICLE** 25. The local civil registrar concerned shall enter all applications for marriage licenses filed with him in a registry book strictly in the order in which the same are received. He shall record in said book the names of the applicants, the date on which the marriage license was issued, and such other data as may be necessary.
