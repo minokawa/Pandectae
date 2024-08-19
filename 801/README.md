@@ -27,61 +27,47 @@
 
 #### State policy towards labor
 
-- Security of tenure
-
-- Social justice
-
-- Equal work opportunities
-
-- Right to self-organization and collective bargaining
-
-- Construction in favor of labor
-
-- Burden of proof and quantum of evidence
+> - Security of tenure
+> - Social justice
+> - Equal work opportunities
+> - Right to self-organization and collective bargaining
+> - Construction in favor of labor
+> - Burden of proof and quantum of evidence
 
   
   
 
 #### Concepts
 
-- Protection to Labor Clause
-
-- Full Employment
-
-- Right to Self-Organization
-
-- Collective Bargaining
-
-- Security of Tenure
-
-- Strike
-
-- Workers Participation in Policy or Decision-Making
-
-- Principle of Shared Responsibility
-
-- Just Share in the Fruits of Production
+> - Protection to Labor Clause
+> - Full Employment
+> - Right to Self-Organization
+> - Collective Bargaining
+> - Security of Tenure
+> - Strike
+> - Workers Participation in Policy or Decision-Making
+> - Principle of Shared Responsibility
+> - Just Share in the Fruits of Production
 
   
 
 #### Cases
 
-> [Navarro v. Coca Cola Bottlers](Cases/Navarro%20v.%20Coca%20Cola%20Bottlers.md) Phils, GR162583, June 8, 2007
-> [G and M Philippines Inc. v. Cuambot](Cases/G%20and%20M%20Philippines%20Inc.%20v.%20Cuambot.md), GR162308, November 22, 2006
-> [Angelica Francisco v. NLRC](Cases/Angelica%20Francisco%20v.%20NLRC.md) GR170087, August 31, 2006
-> [Great Pacific Life Insurance Corporation v. Judico](Cases/Great%20Pacific%20Life%20Insurance%20Corporation%20v.%20Judico.md), GR73887, December 21, 1989
-> [Tongko v. The Manufacturers Life and De Dios](Cases/Tongko%20v.%20The%20Manufacturers%20Life%20and%20De%20Dios.md), GR167622, June 29, 2010
-> [Sonza v. ABS-CBN](Cases/Sonza%20v.%20ABS-CBN.md), GR138051, June 10, 2004
-> [Thelma Dumpit-Morillo v. CA](Cases/Thelma%20Dumpit-Morillo%20v.%20CA.md), GR164652, June 8, 2007
-> [Fuji Television Network v. Arlene Espiritu](Cases/Fuji%20Television%20Network%20v.%20Arlene%20Espiritu.md), GR204944- 45, December 3, 2014
-> [Nelson Begino v. ABS-CBN Corporation](Cases/Nelson%20Begino%20v.%20ABS-CBN%20Corporation.md), GR199166, April 20, 2015
-> [Villamaria v. CA and Bustamante](Cases/Villamaria%20v.%20CA%20and%20Bustamante.md), GR165881, April 19, 2006
-> [Bernarte v. PBA](Cases/Bernarte%20v.%20PBA.md), GR192084, September 14, 2011
-> [Jesus G. Reyes v. Glaucoma Research](Cases/Jesus%20G.%20Reyes%20v.%20Glaucoma%20Research.md), GR189255, June 17,2015
-> [Century Properties v. Edwin Babiano](Cases/Century%20Properties%20v.%20Edwin%20Babiano.md) GR220987, July 5, 2016
-> [Bitoy Javier v. Fly Ace Corporation](Cases/Bitoy%20Javier%20v.%20Fly%20Ace%20Corporation.md), GR192558, February 15, 2012
-> [Southeast International Rattan Inc v. Coming](Cases/Southeast%20International%20Rattan%20Inc%20v.%20Coming.md), GR186621, March 12, 2014
-> 
+>- [Navarro v. Coca Cola Bottlers](Cases/Navarro%20v.%20Coca%20Cola%20Bottlers.md) Phils, GR162583, June 8, 2007
+>- [G and M Philippines Inc. v. Cuambot](Cases/G%20and%20M%20Philippines%20Inc.%20v.%20Cuambot.md), GR162308, November 22, 2006
+>- [Angelica Francisco v. NLRC](Cases/Angelica%20Francisco%20v.%20NLRC.md) GR170087, August 31, 2006
+>- [Great Pacific Life Insurance Corporation v. Judico](Cases/Great%20Pacific%20Life%20Insurance%20Corporation%20v.%20Judico.md), GR73887, December 21, 1989
+>- [Tongko v. The Manufacturers Life and De Dios](Cases/Tongko%20v.%20The%20Manufacturers%20Life%20and%20De%20Dios.md), GR167622, June 29, 2010
+>-  [Sonza v. ABS-CBN](Cases/Sonza%20v.%20ABS-CBN.md), GR138051, June 10, 2004
+>-  [Thelma Dumpit-Morillo v. CA](Cases/Thelma%20Dumpit-Morillo%20v.%20CA.md), GR164652, June 8, 2007
+>-  [Fuji Television Network v. Arlene Espiritu](Cases/Fuji%20Television%20Network%20v.%20Arlene%20Espiritu.md), GR204944- 45, December 3, 2014
+>-  [Nelson Begino v. ABS-CBN Corporation](Cases/Nelson%20Begino%20v.%20ABS-CBN%20Corporation.md), GR199166, April 20, 2015
+>-  [Villamaria v. CA and Bustamante](Cases/Villamaria%20v.%20CA%20and%20Bustamante.md), GR165881, April 19, 2006
+>-  [Bernarte v. PBA](Cases/Bernarte%20v.%20PBA.md), GR192084, September 14, 2011
+>-  [Jesus G. Reyes v. Glaucoma Research](Cases/Jesus%20G.%20Reyes%20v.%20Glaucoma%20Research.md), GR189255, June 17,2015
+>-  [Century Properties v. Edwin Babiano](Cases/Century%20Properties%20v.%20Edwin%20Babiano.md) GR220987, July 5, 2016
+>-  [Bitoy Javier v. Fly Ace Corporation](Cases/Bitoy%20Javier%20v.%20Fly%20Ace%20Corporation.md), GR192558, February 15, 2012
+>-  [Southeast International Rattan Inc v. Coming](Cases/Southeast%20International%20Rattan%20Inc%20v.%20Coming.md), GR186621, March 12, 2014
 
 #### Who are Covered
 
