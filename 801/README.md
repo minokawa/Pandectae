@@ -101,29 +101,29 @@
 #### Cases
 
 
-> [LVN Pictures Inc. v. Phil. Musicians Guild](Cases/LVN%20Pictures%20Inc.%20v.%20Phil.%20Musicians%20Guild.md)
-> [Dy Keh Beng v. International Labor](Cases/Dy%20Keh%20Beng%20v.%20International%20Labor.md), 90 SCRA 161
-> [Corporal v. NLRC](Cases/Corporal%20v.%20NLRC.md) 2000
-> [Maraguinot v. NLRC](Cases/Maraguinot%20v.%20NLRC.md)
-> [Sonza v. ABS-CBN Broadcasting Corporation](Cases/Sonza%20v.%20ABS-CBN%20Broadcasting%20Corporation.md), GR138051, June 10, 2004.
-> [ABS-CBN Broadcasting Corporation v Marlyn Nazareno](Cases/ABS-CBN%20Broadcasting%20Corporation%20v%20Marlyn%20Nazareno.md), GR164156, September 26, 2006
-> [Jocelyn M. Galera v. WPP Marketing](Cases/Jocelyn%20M.%20Galera%20v.%20WPP%20Marketing.md), GR169207/GR169239, March 25, 2010
-> [Television And Production Exponents v. Servana](Cases/Television%20And%20Production%20Exponents%20v.%20Servana.md), GR167648, January 28, 2008
-> 
+>-   [LVN Pictures Inc. v. Phil. Musicians Guild](Cases/LVN%20Pictures%20Inc.%20v.%20Phil.%20Musicians%20Guild.md)
+>-   [Dy Keh Beng v. International Labor](Cases/Dy%20Keh%20Beng%20v.%20International%20Labor.md), 90 SCRA 161
+>-   [Corporal v. NLRC](Cases/Corporal%20v.%20NLRC.md) 2000
+>-   [Maraguinot v. NLRC](Cases/Maraguinot%20v.%20NLRC.md)
+>-   [Sonza v. ABS-CBN Broadcasting Corporation](Cases/Sonza%20v.%20ABS-CBN%20Broadcasting%20Corporation.md), GR138051, June 10, 2004.
+>-   [ABS-CBN Broadcasting Corporation v Marlyn Nazareno](Cases/ABS-CBN%20Broadcasting%20Corporation%20v%20Marlyn%20Nazareno.md), GR164156, September 26, 2006
+>-   [Jocelyn M. Galera v. WPP Marketing](Cases/Jocelyn%20M.%20Galera%20v.%20WPP%20Marketing.md), GR169207/GR169239, March 25, 2010
+>-   [Television And Production Exponents v. Servana](Cases/Television%20And%20Production%20Exponents%20v.%20Servana.md), GR167648, January 28, 2008
+
 ### Kinds of Employees, Art 279, 280, 281
 #### Probationary employee
 
 #### Cases
-> [Philippine Bank of Communications v. NLRC](Cases/Philippine%20Bank%20of%20Communications%20v.%20NLRC.md) 146 SCRA 347
-> [Neri v. NLRC](Cases/Neri%20v.%20NLRC.md) 224 SCRA 717
-> [Philippine Telegraph and Telephone v. NLRC](Cases/Philippine%20Telegraph%20and%20Telephone%20v.%20NLRC.md) 272 SCRA 596
-> [Apex Mining Company v. NLRC](Cases/Apex%20Mining%20Company%20v.%20NLRC.md)196 SCRA 251
-> [Brent School v. Zamora](Cases/Brent%20School%20v.%20Zamora.md) 181 SCRA 702 1990
-> [Cielo v. NLRC](Cases/Cielo%20v.%20NLRC.md) 193 SCRA 410 1991
-> [Purefoods Corp. v NLRC](Cases/Purefoods%20Corp.%20v%20NLRC.md) 283 SCRA 133
-> [Servidad v. NLRC](Cases/Servidad%20v.%20NLRC.md) 305 SCRA 49 1999
-> [Joeb M. Alviado v. Procter Gamble Phils](Cases/Joeb%20M.%20Alviado%20v.%20Procter%20Gamble%20Phils.md), GR160506, March 9, 2010
-> [Mariwasa Manufacturing v. Leogardo](Cases/Mariwasa%20Manufacturing%20v.%20Leogardo.md) 169 SCRA 465
+>-   [Philippine Bank of Communications v. NLRC](Cases/Philippine%20Bank%20of%20Communications%20v.%20NLRC.md) 146 SCRA 347
+>-   [Neri v. NLRC](Cases/Neri%20v.%20NLRC.md) 224 SCRA 717
+>-   [Philippine Telegraph and Telephone v. NLRC](Cases/Philippine%20Telegraph%20and%20Telephone%20v.%20NLRC.md) 272 SCRA 596
+>-   [Apex Mining Company v. NLRC](Cases/Apex%20Mining%20Company%20v.%20NLRC.md)196 SCRA 251
+>-   [Brent School v. Zamora](Cases/Brent%20School%20v.%20Zamora.md) 181 SCRA 702 1990
+>-   [Cielo v. NLRC](Cases/Cielo%20v.%20NLRC.md) 193 SCRA 410 1991
+>-   [Purefoods Corp. v NLRC](Cases/Purefoods%20Corp.%20v%20NLRC.md) 283 SCRA 133
+>-   [Servidad v. NLRC](Cases/Servidad%20v.%20NLRC.md) 305 SCRA 49 1999
+>-   [Joeb M. Alviado v. Procter Gamble Phils](Cases/Joeb%20M.%20Alviado%20v.%20Procter%20Gamble%20Phils.md), GR160506, March 9, 2010
+>-   [Mariwasa Manufacturing v. Leogardo](Cases/Mariwasa%20Manufacturing%20v.%20Leogardo.md) 169 SCRA 465
 
   
 
@@ -279,19 +279,19 @@
 
 #### Cases
 
-  
-> [People v. Sagun](Cases/People%20v.%20Sagun.md) GR119076 2002
-> [People v. Remullo](Cases/People%20v.%20Remullo.md) GR124443-46 2002
-> [Sto. Tomas v. Salac](Cases/Sto.%20Tomas%20v.%20Salac.md), GR152642 2012
-> [People v. Gallardo](Cases/People%20v.%20Gallardo.md), GR140067-71 2002
-> [People v. Sadiosa](Cases/People%20v.%20Sadiosa.md) GR107084 1998/ People v. Verano GR
-> [People v. Antonio](Cases/People%20v.%20Antonio.md), GR232623 2022
-> [People v. Saraban](Cases/People%20v.%20Saraban.md), GR194255 2012
-> [People v. Lo](Cases/People%20v.%20Lo.md), GR175229 2009/ People v. David GR233089 2020
-> [Skippers United Pacific v. Maguad](Cases/Skippers%20United%20Pacific%20v.%20Maguad.md) as cited in ACTI Overseas Corp v. Echin, GR178551 2010
-> [Feagle Construction Corp v. Dorado](Cases/Feagle%20Construction%20Corp%20v.%20Dorado.md), GR86042 1991
-> [Ilas v. NLRC](Cases/Ilas%20v.%20NLRC.md)GR90394-97 1991
-> [Sunace International Management Services v. NLRC](Cases/Sunace%20International%20Management%20Services%20v.%20NLRC.md) GR161757 2006
+
+>-   [People v. Sagun](Cases/People%20v.%20Sagun.md) GR119076 2002
+>-   [People v. Remullo](Cases/People%20v.%20Remullo.md) GR124443-46 2002
+>-   [Sto. Tomas v. Salac](Cases/Sto.%20Tomas%20v.%20Salac.md), GR152642 2012
+>-   [People v. Gallardo](Cases/People%20v.%20Gallardo.md), GR140067-71 2002
+>-   [People v. Sadiosa](Cases/People%20v.%20Sadiosa.md) GR107084 1998/ People v. Verano GR
+>-   [People v. Antonio](Cases/People%20v.%20Antonio.md), GR232623 2022
+>-   [People v. Saraban](Cases/People%20v.%20Saraban.md), GR194255 2012
+>-   [People v. Lo](Cases/People%20v.%20Lo.md), GR175229 2009/ People v. David GR233089 2020
+>-   [Skippers United Pacific v. Maguad](Cases/Skippers%20United%20Pacific%20v.%20Maguad.md) as cited in ACTI Overseas Corp v. Echin, GR178551 2010
+>-   [Feagle Construction Corp v. Dorado](Cases/Feagle%20Construction%20Corp%20v.%20Dorado.md), GR86042 1991
+>-   [Ilas v. NLRC](Cases/Ilas%20v.%20NLRC.md)GR90394-97 1991
+>-   [Sunace International Management Services v. NLRC](Cases/Sunace%20International%20Management%20Services%20v.%20NLRC.md) GR161757 2006
 
   
 
@@ -443,15 +443,15 @@
 
 #### Cases
 
-> [National Sugar Refineries Corp v. NLRC](Cases/National%20Sugar%20Refineries%20Corp%20v.%20NLRC.md), GR101761, March 24, 1993
-> [United Pepsi Cola v. Laguesma](Cases/United%20Pepsi%20Cola%20v.%20Laguesma.md), GR122226, March 25, 1998
-> [Pan American World Airways System v. Pan American Employee](Cases/Pan%20American%20World%20Airways%20System%20v.%20Pan%20American%20Employee.md)s Association, GRL-16275, February 24, 1961
-> [Mercury Drug v. Dayao](Cases/Mercury%20Drug%20v.%20Dayao.md), GRL-30452, September 30, 1982
-> [Detective and Protective Bureau Inc. v. United Employees](Cases/Detective%20and%20Protective%20Bureau%20Inc.%20v.%20United%20Employees.md) Welfare Association, GRL-4337, December 29, 1951
-> [Engineering Equipment Inc. v. Minster of Labor](Cases/Engineering%20Equipment%20Inc.%20v.%20Minster%20of%20Labor.md), GRL-64967, September 23, 1985
-> [Meralco Workers Union v. Meralco](Cases/Meralco%20Workers%20Union%20v.%20Meralco.md), GRL-11876 May 29, 1959
-> [Jose Rizal College v. NLRC](Cases/Jose%20Rizal%20College%20v.%20NLRC.md), GR65482, December 1, 1987
-> [Asian Transmission Corp. v. CA](Cases/Asian%20Transmission%20Corp.%20v.%20CA.md), GR144664, March 15, 2004
+>-   [National Sugar Refineries Corp v. NLRC](Cases/National%20Sugar%20Refineries%20Corp%20v.%20NLRC.md), GR101761, March 24, 1993
+>-   [United Pepsi Cola v. Laguesma](Cases/United%20Pepsi%20Cola%20v.%20Laguesma.md), GR122226, March 25, 1998
+>-   [Pan American World Airways System v. Pan American Employee](Cases/Pan%20American%20World%20Airways%20System%20v.%20Pan%20American%20Employee.md)s Association, GRL-16275, February 24, 1961
+>-   [Mercury Drug v. Dayao](Cases/Mercury%20Drug%20v.%20Dayao.md), GRL-30452, September 30, 1982
+>-   [Detective and Protective Bureau Inc. v. United Employees](Cases/Detective%20and%20Protective%20Bureau%20Inc.%20v.%20United%20Employees.md) Welfare Association, GRL-4337, December 29, 1951
+>-   [Engineering Equipment v. Minster of Labor](Cases/Engineering%20Equipment%20Inc.%20v.%20Minster%20of%20Labor.md), GRL-64967, September 23, 1985
+>-   [Meralco Workers Union v. Meralco](Cases/Meralco%20Workers%20Union%20v.%20Meralco.md), GRL-11876 May 29, 1959
+>-   [Jose Rizal College v. NLRC](Cases/Jose%20Rizal%20College%20v.%20NLRC.md), GR65482, December 1, 1987
+>-   [Asian Transmission Corp. v. CA](Cases/Asian%20Transmission%20Corp.%20v.%20CA.md), GR144664, March 15, 2004
 
   
 ### Wages
@@ -601,16 +601,15 @@
   
   
 
-> P[eckson v. Robinsons Supermarket](Cases/eckson%20v.%20Robinsons%20Supermarket.md) GR198534 2013
-> [Coca-cola Bottlers PHL v. Kapisanan ng Malayang Manggagawa](Cases/Coca-cola%20Bottlers%20PHL%20v.%20Kapisanan%20ng%20Malayang%20Manggagawa.md) sa Coca-Cola-FFW GR148205 2005
-> [The Philippine American Life and General Insurance Co. v. Gramaje](Cases/The%20Philippine%20American%20Life%20and%20General%20Insurance%20Co.%20v.%20Gramaje.md) GR156963 2004
-> [MERALCO v. NLRC](Cases/MERALCO%20v.%20NLRC.md) GR78763 1989
-> [Telus Intl PHL](Cases/Telus%20Intl%20PHL.md) v. De Guzman GR202676 2019
-> [Manila Memorial Park Cemetery v. Panado](Cases/Manila%20Memorial%20Park%20Cemetery%20v.%20Panado.md), GR167118 2006
-> [Gregorio Araneta Employees Union v. Roldan](Cases/Gregorio%20Araneta%20Employees%20Union%20v.%20Roldan.md), GRL-6946, July 20, 1955; Roldan vs Cebu Portland Cement Co., CA-GR24276-R, May 20, 1960 balance of rights
-> [Duncan Association of Detailman v. Glaxo Wellcome](Cases/Duncan%20Association%20of%20Detailman%20v.%20Glaxo%20Wellcome.md), September 17, 2004
+>- [Peckson v. Robinsons Supermarket](Cases/eckson%20v.%20Robinsons%20Supermarket.md) GR198534 2013
+>-  [Coca-cola Bottlers PHL v. Kapisanan ng Malayang Manggagawa](Cases/Coca-cola%20Bottlers%20PHL%20v.%20Kapisanan%20ng%20Malayang%20Manggagawa.md) sa Coca-Cola-FFW GR148205 2005
+>-  [The Philippine American Life and General Insurance Co. v. Gramaje](Cases/The%20Philippine%20American%20Life%20and%20General%20Insurance%20Co.%20v.%20Gramaje.md) GR156963 2004
+>-  [MERALCO v. NLRC](Cases/MERALCO%20v.%20NLRC.md) GR78763 1989
+>-  [Telus Intl PHL](Cases/Telus%20Intl%20PHL.md) v. De Guzman GR202676 2019
+>-  [Manila Memorial Park Cemetery v. Panado](Cases/Manila%20Memorial%20Park%20Cemetery%20v.%20Panado.md), GR167118 2006
+>-  [Gregorio Araneta Employees Union v. Roldan](Cases/Gregorio%20Araneta%20Employees%20Union%20v.%20Roldan.md), GRL-6946, July 20, 1955; Roldan vs Cebu Portland Cement Co., CA-GR24276-R, May 20, 1960 balance of rights
+>-  [Duncan Association of Detailman v. Glaxo Wellcome](Cases/Duncan%20Association%20of%20Detailman%20v.%20Glaxo%20Wellcome.md), September 17, 2004
 > [Star Paper Corporation v Ronaldo D. Simbol](Cases/Star%20Paper%20Corporation%20v%20Ronaldo%20D.%20Simbol.md), GR164774, April 12, 2006
-> 
   
 
 ### Sexual harassment in the work environment
@@ -865,17 +864,17 @@
   
   
 
-> [Chua-Cua v. Clave](Cases/Chua-Cua%20v.%20Clave.md), 189 SCRA 117
-> [Santos v. NLRC](Cases/Santos%20v.%20NLRC.md), 287 SCRA 117
-> [Lagatic v. NLRC](Cases/Lagatic%20v.%20NLRC.md), 285 SCRA 251
-> [Dimabayao v NLRC](Cases/Dimabayao%20v%20NLRC.md), GR122178, February 25, 1999
-> [Philippine Aeolus Auto-Motive United v NLRC](Cases/Philippine%20Aeolus%20Auto-Motive%20United%20v%20NLRC.md), GR124617, April 28, 2000
-> [FASAP v. Philippine Airlines](Cases/Flight%20Attendants%20And%20Stewards%20Association%20Of%20The%20Philippines%20FASAP%20v.%20Philippine%20Airlines.md) G.R. 178083, - read the decision dated July 23, 2008 and the subsequent one dated Oct. 02, 2009
-> [Armando G. Yrasuegui v. Philippine Airlines](Cases/Armando%20G.%20Yrasuegui%20v.%20Philippine%20Airlines.md), GR168081, October 17, 2008
-> [Valdez v NLRC](Cases/Valdez%20v%20NLRC.md) Feb 9, 1998, 286 SCRA 87
-> [Somerville Stainless Steel v NLRC](Cases/Somerville%20Stainless%20Steel%20v%20NLRC.md), March 11, 1998
-> [NUWHRAIN-APL-IUF Dusit Hotel Nikko Chapter v. Court of Appeals](Cases/NUWHRAIN-APL-IUF%20Dusit%20Hotel%20Nikko%20Chapter%20v.%20Court%20of%20Appeals.md), GR163942, November 11, 2008
-> 
+>-  [Chua-Cua v. Clave](Cases/Chua-Cua%20v.%20Clave.md), 189 SCRA 117
+>-  [Santos v. NLRC](Cases/Santos%20v.%20NLRC.md), 287 SCRA 117
+>-  [Lagatic v. NLRC](Cases/Lagatic%20v.%20NLRC.md), 285 SCRA 251
+>-  [Dimabayao v NLRC](Cases/Dimabayao%20v%20NLRC.md), GR122178, February 25, 1999
+>-  [Philippine Aeolus Auto-Motive United v NLRC](Cases/Philippine%20Aeolus%20Auto-Motive%20United%20v%20NLRC.md), GR124617, April 28, 2000
+>-  [FASAP v. Philippine Airlines](Cases/Flight%20Attendants%20And%20Stewards%20Association%20Of%20The%20Philippines%20FASAP%20v.%20Philippine%20Airlines.md) G.R. 178083, - read the decision dated July 23, 2008 and the subsequent one dated Oct. 02, 2009
+>-  [Armando G. Yrasuegui v. Philippine Airlines](Cases/Armando%20G.%20Yrasuegui%20v.%20Philippine%20Airlines.md), GR168081, October 17, 2008
+>-  [Valdez v NLRC](Cases/Valdez%20v%20NLRC.md) Feb 9, 1998, 286 SCRA 87
+>-  [Somerville Stainless Steel v NLRC](Cases/Somerville%20Stainless%20Steel%20v%20NLRC.md), March 11, 1998
+>-  [NUWHRAIN-APL-IUF Dusit Hotel v. Court of Appeals](Cases/NUWHRAIN-APL-IUF%20Dusit%20Hotel%20Nikko%20Chapter%20v.%20Court%20of%20Appeals.md), GR163942, November 11, 2008
+
 ### 12 LABOR RELATIONS
 
   
