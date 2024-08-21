@@ -32,17 +32,23 @@ It directly affect employment, they directly govern effects of employment. All l
 > - [Just Share in the Fruits of Production](Definitions/Just%20Share%20in%20the%20Fruits%20of%20Production.md)
 #### Cases
 >- [Navarro v. Coca Cola Bottlers](Cases/Navarro%20v.%20Coca%20Cola%20Bottlers.md) Phils, GR162583, June 8, 2007
->- [G and M Philippines Inc. v. Cuambot](Cases/G%20and%20M%20Philippines%20Inc.%20v.%20Cuambot.md), GR162308, November 22, 2006
+>  Prior notice as requirement before absence is absurd on certain circumstance such as Flooding.
+>- [G and M Philippines Inc. v. Cuambot](G%20and%20M%20Philippines%20Inc.%20v.%20Cuambot.md), GR162308, November 22, 2006
+  in labor disputes, evidence should be weighed in favor of the employee when there is doubt or lack of clarity.
 >- [Angelica Francisco v. NLRC](Cases/Angelica%20Francisco%20v.%20NLRC.md) GR170087, August 31, 2006
->	Economic Test- Francisco was economically dependent on Kasei Corporation, having worked there for several years and received compensation in the form of salaries, bonuses, and benefits. Her work was integral to the corporation’s operations, further supporting the existence of an employer-employee relationship.
+>  Economic Test- Francisco was economically dependent on Kasei Corporation, having worked there for several years and received compensation in the form of salaries, bonuses, and benefits. Her work was integral to the corporation’s operations, further supporting the existence of an employer-employee relationship.
 >- [Great Pacific Life Insurance Corporation v. Judico](Cases/Great%20Pacific%20Life%20Insurance%20Corporation%20v.%20Judico.md), GR73887, December 21, 1989
->	Control Test- An employee is considered regular if they are engaged in activities that are usually necessary or desirable in the usual business or trade of the employer.
+>  Control Test- An employee is considered regular if they are engaged in activities that are usually necessary or desirable in the usual business or trade of the employer.
 >- [Tongko v. The Manufacturers Life and De Dios](Cases/Tongko%20v.%20The%20Manufacturers%20Life%20and%20De%20Dios.md), GR167622, June 29, 2010
 >	ERRONEOUS APPLICATION OPF THE 4 FOLD TEST
 >- [Sonza v. ABS-CBN](Cases/Sonza%20v.%20ABS-CBN.md), GR138051, June 10, 2004
+>	Not all service relationships in the broadcasting industry constitute employer-employee relationships, particularly when the services rendered require special skills or talents and when the worker has considerable control over how the work is performed.
 >- [Thelma Dumpit-Morillo v. CA](Cases/Thelma%20Dumpit-Morillo%20v.%20CA.md), GR164652, June 8, 2007
->- [Fuji Television Network v. Arlene Espiritu](Cases/Fuji%20Television%20Network%20v.%20Arlene%20Espiritu.md), GR204944- 45, December 3, 2014
+>	A fixed-term employment contract can not be valid because the period specified was imposed to prevent the petitioner from acquiring regular status. That for a fixed-term contract to be valid, it must be entered into voluntarily, without any force or duress, and on equal terms between the employer and employee.
+>- [Fuji Television Network v. Arlene Espiritu](Cases/Fuji%20Television%20Network%20v.%20Arlene%20Espiritu.md), GR204944-45, December 3, 2014
+>	Shifting burden of proof. It is the burden of the employer to prove that a person whose services it pays for is an independent contractor. It s is the burden of the employee  to prove the fact of dismissal.
 >- [Nelson Begino v. ABS-CBN Corporation](Cases/Nelson%20Begino%20v.%20ABS-CBN%20Corporation.md), GR199166, April 20, 2015
+>  The fixed-term contracts is weighed against the nature of the work performed.
 >- [Villamaria v. CA and Bustamante](Cases/Villamaria%20v.%20CA%20and%20Bustamante.md), GR165881, April 19, 2006
 >- [Bernarte v. PBA](Cases/Bernarte%20v.%20PBA.md), GR192084, September 14, 2011
 >- [Jesus G. Reyes v. Glaucoma Research](Cases/Jesus%20G.%20Reyes%20v.%20Glaucoma%20Research.md), GR189255, June 17,2015
@@ -50,11 +56,11 @@ It directly affect employment, they directly govern effects of employment. All l
 >- [Bitoy Javier v. Fly Ace Corporation](Cases/Bitoy%20Javier%20v.%20Fly%20Ace%20Corporation.md), GR192558, February 15, 2012
 >- [Southeast International Rattan v. Coming](Cases/Southeast%20International%20Rattan%20Inc%20v.%20Coming.md), GR186621, March 12, 2014
 >- [Valencia v. Classic vinyl](Cases/Valencia%20v.%20Classic%20vinyl.md) 2017
->	Another employee-employer relationship, but with an manpower agency involved.
+>  Another employee-employer relationship, but with a manpower agency involved.
 >- [Agabon vs NLRC](Cases/Agabon%20vs%20NLRC.md) 2004
->  Supports  entitlement to employee salary claims despite the dismissal being for just cause
+>  Supports an employees entitlement to salary claims despite the dismissal being for just cause.
 >- [Calalang v. Williams](Cases/Calalang%20v.%20Williams.md)
->  Illustrates the definition of Social Justice and the Balance Between Liberty and Authority.
+>  Illustrates the definition of Social Justice and the balance between Liberty and Authority.
 
 #### Who are Covered
 > - [Definition of employer and employee](Definitions/Definition%20of%20employer%20and%20employee.md) 
@@ -63,14 +69,14 @@ It directly affect employment, they directly govern effects of employment. All l
 > - [Establishing employer-employee](Definitions/Establishing%20employer-employee.md) relationship
 > - [Burden of proof](../502-OBLICON/Definitions/Burden%20of%20proof.md) in establishing employment relations
 #### Cases
->-   [LVN Pictures Inc. v. Phil. Musicians Guild](Cases/LVN%20Pictures%20Inc.%20v.%20Phil.%20Musicians%20Guild.md)
->-   [Dy Keh Beng v. International Labor](Cases/Dy%20Keh%20Beng%20v.%20International%20Labor.md), 90 SCRA 161
->-   [Corporal v. NLRC](Cases/Corporal%20v.%20NLRC.md) 2000
->-   [Maraguinot v. NLRC](Cases/Maraguinot%20v.%20NLRC.md)
->-   [Sonza v. ABS-CBN Broadcasting Corporation](Cases/Sonza%20v.%20ABS-CBN%20Broadcasting%20Corporation.md), GR138051, June 10, 2004.
->-   [ABS-CBN Broadcasting Corporation v Marlyn Nazareno](Cases/ABS-CBN%20Broadcasting%20Corporation%20v%20Marlyn%20Nazareno.md), GR164156, September 26, 2006
->-   [Jocelyn M. Galera v. WPP Marketing](Cases/Jocelyn%20M.%20Galera%20v.%20WPP%20Marketing.md), GR169207/GR169239, March 25, 2010
->-   [Television And Production Exponents v. Servana](Cases/Television%20And%20Production%20Exponents%20v.%20Servana.md), GR167648, January 28, 2008
+>-  [LVN Pictures Inc. v. Phil. Musicians Guild](Cases/LVN%20Pictures%20Inc.%20v.%20Phil.%20Musicians%20Guild.md)
+>-  [Dy Keh Beng v. International Labor](Cases/Dy%20Keh%20Beng%20v.%20International%20Labor.md), 90 SCRA 161
+>-  [Corporal v. NLRC](Cases/Corporal%20v.%20NLRC.md) 2000
+>-  [Maraguinot v. NLRC](Cases/Maraguinot%20v.%20NLRC.md)
+>-  [Sonza v. ABS-CBN Broadcasting Corporation](Cases/Sonza%20v.%20ABS-CBN%20Broadcasting%20Corporation.md), GR138051, June 10, 2004.
+>-  [ABS-CBN Broadcasting Corporation v Marlyn Nazareno](Cases/ABS-CBN%20Broadcasting%20Corporation%20v%20Marlyn%20Nazareno.md), GR164156, September 26, 2006
+>-  [Jocelyn M. Galera v. WPP Marketing](Cases/Jocelyn%20M.%20Galera%20v.%20WPP%20Marketing.md), GR169207/GR169239, March 25, 2010
+>-  [Television And Production Exponents v. Servana](Cases/Television%20And%20Production%20Exponents%20v.%20Servana.md), GR167648, January 28, 2008
 
 #### Kinds of Employees, [Art 279, 280, 281](Definitions/Art%20279,%20280,%20281.md)
 
@@ -90,8 +96,8 @@ It directly affect employment, they directly govern effects of employment. All l
 > - Recruitment and Placement of Workers, [Articles 12-35](Definitions/Articles%2012-35.md)
 > - Definition of [Recruitment and Placement](Definitions/Recruitment%20and%20Placement.md)
 > - [Kinds of Recruitment](Definitions/Kinds%20of%20Recruitment.md)
-> - [Local employment](Local%20employment)
-> - [Overseas employment](Overseas%20employment)
+> - [Local employment](Local%20employment.md)
+> - [Overseas employment](Overseas%20employment.md)
 > - [Regulatory and Visitorial Powers Arts 36-37](Definitions/Regulatory%20and%20Visitorial%20Powers%20Arts%2036-37.md)
 
 #### Law and Regulations applicable to local employment

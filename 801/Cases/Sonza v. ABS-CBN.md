@@ -6,23 +6,22 @@
 
 #### The Control Test and Determining an Employer-Employee Relationship
 
-- The court applied the control test, which is the most important element in determining an employer-employee relationship.
-- The control test looks at the extent of control the hirer exercises over the worker.
-- The court found that ABS-CBN did not exercise control over the means and methods of Sonza's work.
-- Sonza had the freedom to perform his services according to his own style.
-- ABS-CBN could not dictate the contents of Sonza's script, and he was not required to work a fixed number of hours per day.
+The court applied the control test, which is the most important element in determining an employer-employee relationship:
 
-#### Other Factors Considered by the Court
+1. ABS-CBN did not exercise control over the means and methods of Sonza's work.
+2. Sonza had the freedom to perform his services according to his own style.
+3. ABS-CBN could not dictate the contents of Sonza's script, and he was not required to work a fixed number of hours per day.
 
-- The court also considered other factors, such as the selection and engagement of Sonza, the payment of his talent fees directly to him, and the power of dismissal.
-- Sonza's unique skills, talent, and celebrity status were the reasons why ABS-CBN engaged his services.
-- The payment of talent fees directly to Sonza and the absence of the power of dismissal supported the finding that he was an independent contractor.
+The Supreme Court affirmed the decision of the Court of Appeals, which upheld the National Labor Relations Commission's (NLRC) ruling dismissing the case filed by Jose "Jay" Sonza for lack of jurisdiction. The court ruled that Sonza was an independent contractor and not an employee of ABS-CBN, meaning that the Labor Arbiter had no jurisdiction over his claims.
 
-#### Rejection of Sonza's Arguments
+**Governing Laws and Principles:**
 
-- The court rejected Sonza's argument that ABS-CBN's control over his work, such as supplying equipment and crew, and subjecting him to rules and standards of performance, indicated an employer-employee relationship.
-- The court held that these factors did not amount to control over the means and methods of Sonza's work but were merely guidelines to achieve the desired result of top-rating television and radio programs.
+Labor Law - Employer-Employee Relationship:
+The court examined the elements of an employer-employee relationship, which include: (a) selection and engagement of the employee, (b) payment of wages, (c) power of dismissal, and (d) the employer’s power to control the employee on the means and methods by which the work is accomplished.
 
-#### Dismissal of Claim Regarding Right to Security of Tenure
+**Contract Law:**
+The Agreement between Sonza and ABS-CBN, which outlined Sonza's role, payment terms, and exclusivity, was scrutinized to determine if it constituted an employment contract or an independent contractor agreement.
 
-- The court dismissed Sonza's claim that ABS-CBN's practice of treating talents as independent contractors violated the right to security of tenure.
+**On Policy Instruction No. 40:**
+Sonza argued that Policy Instruction No. 40, issued by the Ministry of Labor, classified workers in the broadcast industry as either station or program employees. The court, however, found that this instruction did not have the force of law and was not binding in this case.
+    

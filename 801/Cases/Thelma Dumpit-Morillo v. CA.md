@@ -1,29 +1,15 @@
-#### Background of the Case
+Thelma Dumpit-Murillo is a newscaster and co-anchor for Balitang-Balita, under a contract that is repeatedly renewed totalling to a 4 year service. After the expiration of the last contract, she expressed interest in renewing but subject to salary increase. In the letter she stated that she will deem a non-response as a constructive dismissal of services. 
 
-- Thelma Dumpit-Murillo was accused by the Career Executive Service Board (CESB) of Dishonesty and Falsification of a Public Document.
-- The CESB recommended the denial of Dumpit-Murillo's eligibility for the Career Executive Service (CES) due to alleged false representations in her CES Personal Data Sheet (PDS).
-- The false representations involved her claim of having a master's degree in National Security Administration (MNSA) from the National Defense College of the Philippines (NDCP) and being a candidate for a doctorate degree in Public Administration at the Eulogio "Amang" Rodriguez Institute of Science and Technology.
+A month later she sent a  letter demanding reinstatement and  payment of unpaid wages. Thelma's claim was dismissed by the Labor Arbiter. The NLRC reversed the Labor Arbiter decision and held that an employer-employee relationship existed between Thelma and ABC. ABC elevated the case to the Court of Appeals which ruled that the NLRC committed grave abuse of discretion and reversed their decision.  According to the CA, thelma was a fixed-term employee and not a regular employee. Based on the control ABC had over the Thelma's work, her wage payments, the power of dismissal, and the power to dictate work assignments. 
 
-#### Verification of Entries in Dumpit-Murillo's CES PDS
 
-- The CESB requested a certification from the President of NDCP to verify the entries in Dumpit-Murillo's CES PDS.
-- The President confirmed that Dumpit-Murillo was conferred the MNSA degree but failed to submit her final thesis in hardbound format, which was a requirement for the degree.
-- The CESB argued that Dumpit-Murillo should be held administratively liable for Dishonesty and Falsification of a Public Document based on this information.
+The Supreme Court recognized the employment relationship.
+   
+The petitioner's work was necessary and desirable to ABC's business, and that she had been performing her duties for a continuous period of four years. This established her as a regular employee under labor laws, which consider both the nature of the work and the duration of employment as grounds for regular status. The fixed-term employment contract was not valid because the period specified was imposed to prevent the petitioner from acquiring regular status. That for a fixed-term contract to be valid, it must be entered into voluntarily, without any force or duress, and on equal terms between the employer and employee.
 
-#### Dumpit-Murillo's Defense
+The court set aside the Court of Appeals' decision and affirmed the decision of the National Labor Relations Commission (NLRC), recognizing the petitioner as a regular employee and holding that she was illegally dismissed. Consequently, the petitioner was entitled to the rights and protections afforded to regular employees, including security of tenure.
 
-- Dumpit-Murillo claimed that she did not declare herself as a "graduate" of NDCP with the MNSA degree but only stated the inclusive dates of her attendance.
-- She argued that she could not be held liable for Dishonesty and Falsification of a Public Document because the General Order from NDCP conferred upon her the MNSA degree.
-- Dumpit-Murillo maintained that she relied in good faith on the authenticity and veracity of the documents on hand.
+Elements of an employer-employee relationship as outlined in **Manila Water Company, Inc. v. Pena**.
+The standards for determining regular employment, particularly the necessity and desirability of the employee's work in relation to the employer's business, as discussed in **Benares v. Pancho**.
 
-#### Ombudsman's Decision and Appeal
-
-- The Office of the Ombudsman (OMB) found Dumpit-Murillo guilty of Dishonesty and Falsification of a Public Document and imposed the penalty of dismissal from the service.
-- Dumpit-Murillo filed a Motion for Reconsideration, which was denied.
-- She then filed a Petition for Review before the Court of Appeals (CA), which affirmed the OMB's decision.
-
-#### Supreme Court's Decision
-
-- Dumpit-Murillo appealed to the Supreme Court (SC) through a Petition for Review on Certiorari.
-- The SC held that Dumpit-Murillo was not deprived of due process as she was given the opportunity to explain her side during the administrative proceedings.
-- However, the SC did not find her guilty of Dishonesty
+Thelma a regular employee, she is entitled to security of tenure and can be dismissed only for just cause and after due compliance with procedural due process. 
