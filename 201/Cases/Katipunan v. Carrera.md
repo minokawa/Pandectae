@@ -5,21 +5,15 @@ A complaint was filed by Benjamin M. Katipunan, Jr. against his lawyer, Atty. Re
 
 The key details of the complaint are as follows:
 
-Failure to Inform About Case Status:
-
-The complainant claimed that after filing the petition for review, Atty. Carrera did not provide any updates on the status of the case, despite being aware of its denial as early as February 25, 2010.
+Failure to Inform About Case Status - The complainant claimed that after filing the petition for review, Atty. Carrera did not provide any updates on the status of the case, despite being aware of its denial as early as February 25, 2010.
 Misrepresentation of the Case Status:
 
 The complainant made two follow-up requests for information on the case, first in March 2010 and then in May 2010. In both instances, Atty. Carrera falsely assured the complainant that the case was still pending, even though he knew it had already been denied.
-Negligence in Legal Duty:
 
-Atty. Carrera failed to file a motion for reconsideration following the denial of the petition. He did not inform the complainant of this crucial development, thereby depriving the complainant of the opportunity to seek other legal remedies.
-Violation of Ethical Obligations:
+Negligence in Legal Duty -Atty. Carrera failed to file a motion for reconsideration following the denial of the petition. He did not inform the complainant of this crucial development, thereby depriving the complainant of the opportunity to seek other legal remedies.
 
-The complainant argued that Atty. Carrera's actions amounted to a violation of the trust inherent in the lawyer-client relationship. By not communicating the adverse decision and by unilaterally deciding not to pursue further legal action without consulting the complainant, Atty. Carrera was accused of gross negligence and a breach of his ethical duties as a lawyer.
-Resulting Harm to the Complainant:
 
-Due to Atty. Carrera's failure to inform the complainant and his subsequent inaction, the complainant lost the opportunity to challenge the denial of his petition, which could have potentially altered the outcome of his legal matter.
+Resulting Harm to the Complainan - Due to Atty. Carrera's failure to inform the complainant and his subsequent inaction, the complainant lost the opportunity to challenge the denial of his petition, which could have potentially altered the outcome of his legal matter.
 
 Issues:
 Failure to Inform: Atty. Carrera allegedly failed to inform Katipunan promptly about the Supreme Court's resolution denying his petition, which could have allowed Katipunan to take further legal action, such as filing a motion for reconsideration.
